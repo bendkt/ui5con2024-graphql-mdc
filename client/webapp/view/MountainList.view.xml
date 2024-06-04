@@ -1,0 +1,90 @@
+<mvc:View height="100%" displayBlock="true"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:f="sap.f"
+	xmlns:core="sap.ui.core"
+	xmlns:mdc="sap.ui.mdc"
+	xmlns:mdcf="sap.ui.mdc.field"
+	xmlns:mdct="sap.ui.mdc.table"
+	xmlns:vm="sap.ui.fl.variants" controllerName="mdc.graphql.controller.MountainList">
+
+	<f:DynamicPage id="dynamicPage">
+		<f:title>
+			<f:DynamicPageTitle>
+				<f:heading>
+					<vm:VariantManagement id="variants" for="filterbar, table"/>
+				</f:heading>
+				<f:actions>
+					<Button text="Create" press=".onCreate"/>
+				</f:actions>
+			</f:DynamicPageTitle>
+		</f:title>
+		<f:header>
+			<f:DynamicPageHeader pinnable="true">
+				<mdc:FilterBar id="filterbar" delegate="{
+							name: 'mdc/graphql/delegate/GQLFilterBarDelegate',
+							payload: {
+								valueHelp: {
+									name: 'NameValueHelp',
+									id_range: 'RangeValueHelp',
+									id_parent: 'MountainsValueHelp'
+								}
+							}
+						}"
+						p13nMode = "Item,Value"
+						liveMode = "true">
+					<mdc:basicSearchField>
+						<mdc:FilterField delegate="{name: 'sap/ui/mdc/field/FieldBaseDelegate'}" dataType="sap.ui.model.type.String" placeholder= "Search Mountains" conditions="{$filters>/conditions/$search}" maxConditions="1"/>
+					</mdc:basicSearchField>
+					<mdc:filterItems>
+						<mdc:FilterField label="Name" propertyKey="name" dataType="sap.ui.model.type.String" conditions="{$filters>/conditions/name}" valueHelp="NameValueHelp" delegate="{name: 'sap/ui/mdc/field/FieldBaseDelegate'}"/>
+						<mdc:FilterField label="Range" display="Description" propertyKey="id_range" dataType="sap.ui.model.type.String" conditions="{$filters>/conditions/id_range}" valueHelp="RangeValueHelp" delegate="{name: 'sap/ui/mdc/field/FieldBaseDelegate'}"/>
+					</mdc:filterItems>
+					<mdc:dependents>
+						<core:Fragment fragmentName="mdc.graphql.view.fragment.MountainsValueHelp" type="XML"/>
+						<core:Fragment fragmentName="mdc.graphql.view.fragment.RangeValueHelp" type="XML"/>
+						<core:Fragment fragmentName="mdc.graphql.view.fragment.NameValueHelp" type="XML"/>
+					</mdc:dependents>
+				</mdc:FilterBar>
+			</f:DynamicPageHeader>
+		</f:header>
+		<f:content>
+			<mdc:Table id="table" header="Mountains" p13nMode="Sort,Column" threshold="100" filter="filterbar" showRowCount="true" delegate="{
+					name: 'mdc/graphql/delegate/GQLTableDelegate',
+					payload: {
+						bindingPath: 'apollo>/mountains',
+						searchKeys: ['name', 'range/name', 'parent_mountain/name', 'countries']
+					}
+				}">
+				<mdc:type>
+					<mdct:ResponsiveTableType growingMode="Scroll" />
+				</mdc:type>
+				<mdct:Column propertyKey="name" header="Name">
+					<Link href="#/mountain/{apollo>id}" text="{apollo>name}"/>
+				</mdct:Column>
+				<mdct:Column propertyKey="height" header="Height">
+					<Text text="{path: 'apollo>height' , type: 'mdc.graphql.model.type.LengthMeter'}"/>
+				</mdct:Column>
+				<mdct:Column propertyKey="range" header="Range">
+					<Text text="{apollo>range/name}"/>
+				</mdct:Column>
+				<mdct:Column propertyKey="first_ascent" header="First Ascent">
+					<Text text="{apollo>first_ascent}"/>
+				</mdct:Column>
+				<mdct:Column propertyKey="countries" header="Countries">
+					<mdc:MultiValueField id="F4-date"
+						items="{path: 'apollo>countries', templateShareable: false}"
+						display="Value"
+						editMode="Display"
+						showEmptyIndicator="false">
+						<mdcf:MultiValueFieldItem key="{path: 'apollo>descr', type:'sap.ui.model.type.String'}" />
+					</mdc:MultiValueField>
+				</mdct:Column>
+				<mdct:Column propertyKey="parent_mountain" header="Parent Mountain">
+					<Text text="{apollo>parent_mountain/name}"/>
+				</mdct:Column>
+			</mdc:Table>
+		</f:content>
+	</f:DynamicPage>
+
+</mvc:View>

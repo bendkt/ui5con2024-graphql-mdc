@@ -1,0 +1,12 @@
+<core:FragmentDefinition xmlns:m="sap.m"
+	xmlns="sap.uxap"
+	xmlns:core="sap.ui.core"
+	xmlns:control="mdc.graphql.control"
+	xmlns:mdc="sap.ui.mdc"
+	xmlns:f="sap.ui.layout.form">
+
+	<control:MountainFormBlock>
+		<ModelMapping externalModelName="{=${input>/editMode} ? 'input' : 'apollo'}" externalPath="/mountain" internalModelName="form"/>
+	</control:MountainFormBlock>
+
+</core:FragmentDefinition>

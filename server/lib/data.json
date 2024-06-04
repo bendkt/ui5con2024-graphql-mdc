@@ -1,0 +1,2554 @@
+{
+    "ranges": [
+        {
+            "id": "1f400799-a072-4704-9188-217f89962505",
+            "name": "Mahalangur Himalaya"
+        },
+        {
+            "id": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "name": "Baltoro Karakoram"
+        },
+        {
+            "id": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "name": "Kangchenjunga Himalaya"
+        },
+        {
+            "id": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "name": "Dhaulagiri Himalaya"
+        },
+        {
+            "id": "2f78d6e2-4594-44e6-97a0-aa649a018ef9",
+            "name": "Manaslu Himalaya"
+        },
+        {
+            "id": "76fd0ae0-3fee-4c90-9ff7-4f6b38675401",
+            "name": "Nanga Parbat Himalaya"
+        },
+        {
+            "id": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "name": "Annapurna Himalaya"
+        },
+        {
+            "id": "38dbad45-5292-4e5f-9eec-5f9ac3e48195",
+            "name": "Jugal Himalaya"
+        },
+        {
+            "id": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "name": "Hispar Karakoram"
+        },
+        {
+            "id": "6230fc9a-0700-43df-bac7-5095f3189fb8",
+            "name": "Masherbrum Karakoram"
+        },
+        {
+            "id": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "name": "Garhwal Himalaya"
+        },
+        {
+            "id": "4d5efa7d-e8c9-424b-b56d-41827bb17fbe",
+            "name": "Batura Karakoram"
+        },
+        {
+            "id": "f065c062-fd7c-4944-bc41-176fa2077136",
+            "name": "Rakaposhi-Haramosh Karakoram"
+        },
+        {
+            "id": "bde519fd-3d8f-493f-ad71-c16f43c874cd",
+            "name": "Assam Himalaya"
+        },
+        {
+            "id": "b9c5bae4-a7a3-4246-8229-e48d68d160cf",
+            "name": "Saltoro Karakoram"
+        },
+        {
+            "id": "2890a949-b29e-4c5a-b9b5-f16ee1614023",
+            "name": "Hindu Kush"
+        },
+        {
+            "id": "b42dc716-9e76-4eaa-a20e-a7f966ffb9a3",
+            "name": "Langtang Himalaya"
+        },
+        {
+            "id": "d22b8ade-2f2e-40a4-bf07-5833d2687550",
+            "name": "Nalakankar Himalaya"
+        },
+        {
+            "id": "16d12e52-ca78-4e59-aa3a-e9009c7b6eba",
+            "name": "Saser Karakoram"
+        },
+        {
+            "id": "79e8862e-3cf9-453f-96aa-5c11c5046be2",
+            "name": "Kongur Shan (Eastern Pamirs)"
+        },
+        {
+            "id": "6b35a7b8-818e-4c93-a333-53912022ec12",
+            "name": "Kula Kangri Himalaya"
+        },
+        {
+            "id": "5b09062b-639f-410e-ab69-f3d43a942b4e",
+            "name": "Daxue Mountains (Hengduan Shan)"
+        },
+        {
+            "id": "1a9c1d51-fdb5-4e9b-adbb-aa8fbba1f23d",
+            "name": "Rimo Karakoram"
+        },
+        {
+            "id": "3b5bce0e-9012-4b64-b615-dfce293f942b",
+            "name": "Muztagata (Eastern Pamirs)"
+        },
+        {
+            "id": "78f4510b-e8f3-41e8-8bc5-5585aea7934e",
+            "name": "Pamir (Academy of Sciences Range)"
+        },
+        {
+            "id": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "name": "Siachen Karakoram"
+        },
+        {
+            "id": "566072cf-bbf7-4025-b113-a01f5e4af149",
+            "name": "Tian Shan"
+        },
+        {
+            "id": "a7e853cd-8ae4-4f00-a17b-299e62fb87ab",
+            "name": "Ganesh Himalaya"
+        },
+        {
+            "id": "443abb82-3b0e-4a12-9cc9-28818a686b7f",
+            "name": "Labuche Himalaya"
+        },
+        {
+            "id": "17b9c3d3-ef78-4d0d-8646-b5d5b22622af",
+            "name": "Jomolhari Himalaya"
+        },
+        {
+            "id": "92bef519-46d5-4056-bc46-e23696128cce",
+            "name": "Yengisogat Karakoram"
+        },
+        {
+            "id": "c065154e-0fdf-4331-950e-ec6d827663fe",
+            "name": "Panmah Karakoram"
+        },
+        {
+            "id": "db93a937-559d-4b62-a215-334baf6e822a",
+            "name": "Baiku Himalaya"
+        },
+        {
+            "id": "96c0d021-6e11-44e8-92ef-12442bded9b4",
+            "name": "Lunana Himalaya"
+        },
+        {
+            "id": "bcaf994c-37e4-474e-b1fd-b45843bae26d",
+            "name": "Nagarze Himalaya"
+        }
+    ],
+    "countries": [
+        {
+            "name": "AND",
+            "descr": "Andorra",
+            "code": "AD"
+        },
+        {
+            "name": "UAE",
+            "descr": "United Arab Emirates",
+            "code": "AE"
+        },
+        {
+            "name": "AFG",
+            "descr": "Afghanistan",
+            "code": "AF"
+        },
+        {
+            "name": "ANT",
+            "descr": "Antigua and Barbuda",
+            "code": "AG"
+        },
+        {
+            "name": "AIA",
+            "descr": "Anguilla",
+            "code": "AI"
+        },
+        {
+            "name": "AL",
+            "descr": "Albania",
+            "code": "AL"
+        },
+        {
+            "name": "AM",
+            "descr": "Armenia",
+            "code": "AM"
+        },
+        {
+            "name": "ANG",
+            "descr": "Angola",
+            "code": "AO"
+        },
+        {
+            "name": "ATA",
+            "descr": "Antarctica",
+            "code": "AQ"
+        },
+        {
+            "name": "RA",
+            "descr": "Argentina",
+            "code": "AR"
+        },
+        {
+            "name": "WS",
+            "descr": "American Samoa",
+            "code": "AS"
+        },
+        {
+            "name": "AUT",
+            "descr": "Austria",
+            "code": "AT"
+        },
+        {
+            "name": "AUS",
+            "descr": "Australia",
+            "code": "AU"
+        },
+        {
+            "name": "ABW",
+            "descr": "Aruba",
+            "code": "AW"
+        },
+        {
+            "name": "ALA",
+            "descr": "Aland Islands",
+            "code": "AX"
+        },
+        {
+            "name": "AZ",
+            "descr": "Azerbaijan",
+            "code": "AZ"
+        },
+        {
+            "name": "BIH",
+            "descr": "Bosnia and Herzegovina",
+            "code": "BA"
+        },
+        {
+            "name": "BDS",
+            "descr": "Barbados",
+            "code": "BB"
+        },
+        {
+            "name": "BD",
+            "descr": "Bangladesh",
+            "code": "BD"
+        },
+        {
+            "name": "B",
+            "descr": "Belgium",
+            "code": "BE"
+        },
+        {
+            "name": "BF",
+            "descr": "Burkina Faso",
+            "code": "BF"
+        },
+        {
+            "name": "BG",
+            "descr": "Bulgaria",
+            "code": "BG"
+        },
+        {
+            "name": "BRN",
+            "descr": "Bahrain",
+            "code": "BH"
+        },
+        {
+            "name": "RU",
+            "descr": "Burundi",
+            "code": "BI"
+        },
+        {
+            "name": "DY",
+            "descr": "Benin",
+            "code": "BJ"
+        },
+        {
+            "name": "BLM",
+            "descr": "Saint Barthélemy",
+            "code": "BL"
+        },
+        {
+            "name": "BER",
+            "descr": "Bermuda",
+            "code": "BM"
+        },
+        {
+            "name": "BRU",
+            "descr": "Brunei Darussalam",
+            "code": "BN"
+        },
+        {
+            "name": "BOL",
+            "descr": "Bolivia",
+            "code": "BO"
+        },
+        {
+            "name": "BES",
+            "descr": "Bonaire, Sint Eustatius and Saba",
+            "code": "BQ"
+        },
+        {
+            "name": "BR",
+            "descr": "Brazil",
+            "code": "BR"
+        },
+        {
+            "name": "BS",
+            "descr": "Bahamas",
+            "code": "BS"
+        },
+        {
+            "name": "BHT",
+            "descr": "Bhutan",
+            "code": "BT"
+        },
+        {
+            "name": "BVT",
+            "descr": "Bouvet Islands",
+            "code": "BV"
+        },
+        {
+            "name": "RB",
+            "descr": "Botswana",
+            "code": "BW"
+        },
+        {
+            "name": "BY",
+            "descr": "Belarus",
+            "code": "BY"
+        },
+        {
+            "name": "BH",
+            "descr": "Belize",
+            "code": "BZ"
+        },
+        {
+            "name": "CDN",
+            "descr": "Canada",
+            "code": "CA"
+        },
+        {
+            "name": "CCK",
+            "descr": "Cocos (Keeling) Islands",
+            "code": "CC"
+        },
+        {
+            "name": "RCB",
+            "descr": "Democratic Republic of the Congo",
+            "code": "CD"
+        },
+        {
+            "name": "RCA",
+            "descr": "Central African Republic",
+            "code": "CF"
+        },
+        {
+            "name": "RCB",
+            "descr": "Republic of the Congo",
+            "code": "CG"
+        },
+        {
+            "name": "CH",
+            "descr": "Switzerland",
+            "code": "CH"
+        },
+        {
+            "name": "CI",
+            "descr": "Cote d''Ivoire",
+            "code": "CI"
+        },
+        {
+            "name": "COI",
+            "descr": "Cook Islands",
+            "code": "CK"
+        },
+        {
+            "name": "RCH",
+            "descr": "Chile",
+            "code": "CL"
+        },
+        {
+            "name": "CAM",
+            "descr": "Cameroon",
+            "code": "CM"
+        },
+        {
+            "name": "CHI",
+            "descr": "China",
+            "code": "CN"
+        },
+        {
+            "name": "CO",
+            "descr": "Colombia",
+            "code": "CO"
+        },
+        {
+            "name": "CR",
+            "descr": "Costa Rica",
+            "code": "CR"
+        },
+        {
+            "name": "C",
+            "descr": "Cuba",
+            "code": "CU"
+        },
+        {
+            "name": "CPV",
+            "descr": "Cabo Verde",
+            "code": "CV"
+        },
+        {
+            "name": "CXR",
+            "descr": "Christmas Island",
+            "code": "CX"
+        },
+        {
+            "name": "CY",
+            "descr": "Cyprus",
+            "code": "CY"
+        },
+        {
+            "name": "CZ",
+            "descr": "Czech Republic",
+            "code": "CZ"
+        },
+        {
+            "name": "D",
+            "descr": "Germany",
+            "code": "DE"
+        },
+        {
+            "name": "DJI",
+            "descr": "Djibouti",
+            "code": "DJ"
+        },
+        {
+            "name": "DK",
+            "descr": "Denmark",
+            "code": "DK"
+        },
+        {
+            "name": "WD",
+            "descr": "Dominica",
+            "code": "DM"
+        },
+        {
+            "name": "DOM",
+            "descr": "Dominican Republic",
+            "code": "DO"
+        },
+        {
+            "name": "DZ",
+            "descr": "Algeria",
+            "code": "DZ"
+        },
+        {
+            "name": "EC",
+            "descr": "Ecuador",
+            "code": "EC"
+        },
+        {
+            "name": "EST",
+            "descr": "Estonia",
+            "code": "EE"
+        },
+        {
+            "name": "ET",
+            "descr": "Egypt",
+            "code": "EG"
+        },
+        {
+            "name": "ESH",
+            "descr": "Western Sahara",
+            "code": "EH"
+        },
+        {
+            "name": "ER",
+            "descr": "Eritrea",
+            "code": "ER"
+        },
+        {
+            "name": "E",
+            "descr": "Spain",
+            "code": "ES"
+        },
+        {
+            "name": "ETH",
+            "descr": "Ethiopia",
+            "code": "ET"
+        },
+        {
+            "name": "FIN",
+            "descr": "Finland",
+            "code": "FI"
+        },
+        {
+            "name": "FJI",
+            "descr": "Fiji",
+            "code": "FJ"
+        },
+        {
+            "name": "FLK",
+            "descr": "Falkland Islands",
+            "code": "FK"
+        },
+        {
+            "name": "FSM",
+            "descr": "Micronesia",
+            "code": "FM"
+        },
+        {
+            "name": "FR",
+            "descr": "Faroe Islands",
+            "code": "FO"
+        },
+        {
+            "name": "F",
+            "descr": "France",
+            "code": "FR"
+        },
+        {
+            "name": "G",
+            "descr": "Gabon",
+            "code": "GA"
+        },
+        {
+            "name": "GB",
+            "descr": "United Kingdom",
+            "code": "GB"
+        },
+        {
+            "name": "WG",
+            "descr": "Grenada",
+            "code": "GD"
+        },
+        {
+            "name": "GE",
+            "descr": "Georgia",
+            "code": "GE"
+        },
+        {
+            "name": "GUF",
+            "descr": "French Guyana",
+            "code": "GF"
+        },
+        {
+            "name": "GBG",
+            "descr": "Guernsey (Channel Islands)",
+            "code": "GG"
+        },
+        {
+            "name": "GH",
+            "descr": "Ghana",
+            "code": "GH"
+        },
+        {
+            "name": "GBZ",
+            "descr": "Gibraltar",
+            "code": "GI"
+        },
+        {
+            "name": "GRL",
+            "descr": "Greenland",
+            "code": "GL"
+        },
+        {
+            "name": "WAG",
+            "descr": "Gambia",
+            "code": "GM"
+        },
+        {
+            "name": "GIN",
+            "descr": "Guinea",
+            "code": "GN"
+        },
+        {
+            "name": "GLP",
+            "descr": "Guadeloupe",
+            "code": "GP"
+        },
+        {
+            "name": "GNQ",
+            "descr": "Equatorial Guinea",
+            "code": "GQ"
+        },
+        {
+            "name": "GR",
+            "descr": "Greece",
+            "code": "GR"
+        },
+        {
+            "name": "SGS",
+            "descr": "South Georgia and the Southern Sandwich Islands",
+            "code": "GS"
+        },
+        {
+            "name": "GCA",
+            "descr": "Guatemala",
+            "code": "GT"
+        },
+        {
+            "name": "GUM",
+            "descr": "Guam",
+            "code": "GU"
+        },
+        {
+            "name": "GUB",
+            "descr": "Guinea-Bissau",
+            "code": "GW"
+        },
+        {
+            "name": "GUY",
+            "descr": "Guyana",
+            "code": "GY"
+        },
+        {
+            "name": "HK",
+            "descr": "Hong Kong",
+            "code": "HK"
+        },
+        {
+            "name": "HMD",
+            "descr": "Heard Island and McDonald Islands",
+            "code": "HM"
+        },
+        {
+            "name": "HN",
+            "descr": "Honduras",
+            "code": "HN"
+        },
+        {
+            "name": "HR",
+            "descr": "Croatia",
+            "code": "HR"
+        },
+        {
+            "name": "RH",
+            "descr": "Haiti",
+            "code": "HT"
+        },
+        {
+            "name": "H",
+            "descr": "Hungary",
+            "code": "HU"
+        },
+        {
+            "name": "RI",
+            "descr": "Indonesia",
+            "code": "ID"
+        },
+        {
+            "name": "USA",
+            "descr": "United States of America",
+            "code": "US"
+        },
+        {
+            "name": "NPL",
+            "descr": "Nepal",
+            "code": "NP"
+        },
+        {
+            "name": "PAK",
+            "descr": "Pakistan",
+            "code": "PK"
+        },
+        {
+            "name": "IND",
+            "descr": "India",
+            "code": "IN"
+        },
+        {
+            "name": "BTN",
+            "descr": "Buthan",
+            "code": "BT"
+        },
+        {
+            "name": "TJK",
+            "descr": "Tajikistan",
+            "code": "TJ"
+        },
+        {
+            "name": "KGZ",
+            "descr": "Kyrgyzstan",
+            "code": "KG"
+        }
+    ],
+    "mountains": [
+        {
+            "name": "Mount Everest",
+            "height": 8848,
+            "prominence": 8848,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°59'17''N 86°55'31''E",
+            "first_ascent": 1953,
+            "description": "As the tallest mountain on Earth, mountaineers face numerous challenges when attempting to climb Mount Everest. Climbing conditions are harshest in the so-called 'death zone' above 8000m. Avalanches, extreme cold, winds, and oxygen deprivation are the main dangers. Edmund Hillary and Tenzing Norgay were the first to successfully climb it in 1953. Deaths during ascent are common with a fatality rate of 4%.",
+            "id": "a29bf6b1-0478-43ed-ad38-862f871995cf",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "K2",
+            "height": 8611,
+            "prominence": 402,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°52'53''N 76°30'48''E",
+            "first_ascent": 1954,
+            "description": "K2 known as the 'Savage Mountain', is notoriously difficult and dangerous to climb due to its unpredictable and harsh weather, as well as difficult climbing routes. Often regarded as the ultimate achievement for a mountaineer, it has the second-highest fatality rate among the famed 'eight-thousanders'. The first successful ascent was made by Lino Lacedelli and Achille Compagnoni in 1954. The mountain's ice pillars often collapse without warning, adding to the climbing challenges.",
+            "id": "9941ed5c-e137-402c-9c54-4495c3faedf4",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Kangchenjunga",
+            "height": 8586,
+            "prominence": 3922,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°42'12''N 88°08'51''E *",
+            "first_ascent": 1955,
+            "description": "Kangchenjunga, meaning 'The Five Treasures of Snows', is the third highest mountain in the world. The first ascend was made by George Band and Joe Brown in 1955, stopping a few feet short of the actual summit in deference to local customs. Hazardous weather conditions and the threat of avalanches make the climb extremely challenging even for the most experienced climbers. Deaths due to avalanches and falls are common.",
+            "id": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "NP",
+                "IN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Lhotse",
+            "height": 8516,
+            "prominence": 610,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°57'42''N 86°55'59''E",
+            "first_ascent": 1956,
+            "description": "Connected to Mount Everest via the South Col, Lhotse is the fourth highest mountain in the world, reaching 8,516 metres. The ascent is via a steep and narrow couloir, with avalanches being a consistent threat. The summit of Lhotse remains less visited than those of the other 8000ers. The first successful climb was made by Fritz Luchsinger and Ernst Reiss in 1956.",
+            "id": "0279ff36-bb0a-4774-be62-b9a3691059db",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Makalu",
+            "height": 8485,
+            "prominence": 2378,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°53'23''N 87°05'20''E",
+            "first_ascent": 1955,
+            "description": "Makalu is an isolated peak noted for its beautiful, but very dangerous pyramid shape. The steep pitches and knife-edged ridges make the climb to the summit challenging, and it is often considered one of the most difficult climbs in the world. Lionel Terray and Jean Couzy first conquered it in 1955. The final ascent to the summit is exposed and often battered by high winds.",
+            "id": "bb75eab5-08bc-4862-a0f3-b9b50aecc7b0",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Cho Oyu",
+            "height": 8188,
+            "prominence": 234,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°05'39''N 86°39'39''E",
+            "first_ascent": 1954,
+            "description": "As the sixth highest mountain in the world, Cho Oyu's name translates to 'Turquoise Goddess' in Tibetan. The mountain is considered one of the easiest 8000 metre peaks to climb due to the gentle slopes and easy access to its base camp. Joseph Jöchler, Herbert Tichy, and Sherpa Pasang Dawa Lama ascended it first in 1954. However, that shouldn't belittle the fact that climbers still face great challenges such as sudden weather changing.",
+            "id": "c56a65b8-2832-46ff-9a6e-4da0341ef72d",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Dhaulagiri I",
+            "height": 8167,
+            "prominence": 3357,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°41'48''N 83°29'35''E",
+            "first_ascent": 1960,
+            "description": "Dhaulagiri I is the seventh highest mountain in the world. As the highest mountain in the world for nearly 30 years before being surpassed by Kanchenjunga, Dhaulagiri is an imposing presence in the mid-western Nepalese Himalayas. Weather can change rapidly and avalanches are a common occurrence, which makes the climb highly risky. The first successful climb was made by a Swiss team in 1960.",
+            "id": "13245022-c773-4ffa-8e49-232366237551",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "9941ed5c-e137-402c-9c54-4495c3faedf4"
+        },
+        {
+            "name": "Manaslu",
+            "height": 8163,
+            "prominence": 3092,
+            "range": "Manaslu Himalaya",
+            "coordinates": "28°33'00''N 84°33'35''E",
+            "first_ascent": 1956,
+            "description": "Located in the Mansiri Himal in Nepal, Manaslu is the eighth highest mountain in the world. The mountain's long ridges and valley glaciers offer feasible approaches from all directions. The first known ascent in 1956 by Toshio Imanishi and Gyalzen Norbu, members of a Japanese expedition. Its high risk of avalanches has led to many fatalities over the years.",
+            "id": "c258b9c6-b61e-410a-a664-2f57aeeb3ced",
+            "id_range": "2f78d6e2-4594-44e6-97a0-aa649a018ef9",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Nanga Parbat",
+            "height": 8126,
+            "prominence": 4608,
+            "range": "Nanga Parbat Himalaya",
+            "coordinates": "35°14'14''N 74°35'21''E",
+            "first_ascent": 1953,
+            "description": "Known as the 'Killer Mountain', Nanga Parbat, is the world's ninth highest, and notorious for its high accident and death rate. It has an enormous ridge of ice and rock, and a steep pinnacle in the western end. The first successful climb was done by Hermann Buhl alone in 1953. Buhl is the only mountaineer to have made the first ascent of an eight-thousander solo, and without bottled oxygen or high altitude porters.",
+            "id": "20a73ce6-1e1a-4802-8897-2f3c0e394fb7",
+            "id_range": "76fd0ae0-3fee-4c90-9ff7-4f6b38675401",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Annapurna I",
+            "height": 8091,
+            "prominence": 2984,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°35'44''N 83°49'13''E",
+            "first_ascent": 1950,
+            "description": "Annapurna I, meaning 'Goddess of the Harvests', is the tenth highest mountain in the world and is notoriously dangerous due to its frequent avalanches and changing weather conditions. With one of the highest fatality rates, it poses significant challenges even for the most experienced climbers. French climbers Maurice Herzog and Louis Lachenal made the first successful ascent in 1950.",
+            "id": "9b7219ae-0cf9-4c1b-b53b-658c33fd970f",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Gasherbrum I, Hidden Peak, K5",
+            "height": 8080,
+            "prominence": 2155,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°43'28''N 76°41'47''E",
+            "first_ascent": 1958,
+            "description": "Gasherbrum I, also known as Hidden Peak or K5, was first successfully climbed by Pete Schoening and Andrew Kauffman in 1958. It is located in the Baltoro Karakoram range, specifically in the Gasherbrum massif. The mountain is difficult to ascend due to its great height and the severe weather conditions in the area. Other challenges that climbers face include demanding technical climbs and the risk of avalanches.",
+            "id": "c2a495d9-cf79-42a4-bf32-8a7b74676728",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": "9941ed5c-e137-402c-9c54-4495c3faedf4"
+        },
+        {
+            "name": "Broad Peak",
+            "height": 8051,
+            "prominence": 1701,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°48'38''N 76°34'06''E",
+            "first_ascent": 1957,
+            "description": "Broad Peak, located in the Baltoro Karakoram range in Pakistan and China, got its name due to its extensive summit. It was first successfully ascended by Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, and Hermann Buhl on June 9, 1957. The mountain features a long rocky crest covered with a sizeable area of glaciers and snow. Climbers on Broad Peak face dangers such as avalanches and crevasses. Particularly, the final part of the ascent is exceptionally challenging due to steep climbing and high elevation.",
+            "id": "bfb2f3bd-e647-43ee-a383-21bebd6b69e3",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Gasherbrum II, K4",
+            "height": 8035,
+            "prominence": 1524,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°45'28''N 76°39'12''E",
+            "first_ascent": 1956,
+            "description": "Located in the Karakoram Range on the border between China and Pakistan, Gasherbrum II or K4 is the third highest peak in the Gasherbrum massif. It was first ascended by Fritz Moravec, Josef Larch, and Hans Willenpart in 1956. While considered one of the easier 8000m peaks to climb due to its relatively straightforward route, it can still pose significant challenges like avalanches and severe weather conditions. Moreover, oxygen is less at higher altitudes, making it difficult for climbers to breathe.",
+            "id": "7cc675ce-71a6-4bb7-89ce-a73fb30dec2c",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Shishapangma",
+            "height": 8027,
+            "prominence": 2897,
+            "range": "Jugal Himalaya",
+            "coordinates": "28°21'12''N 85°46'43''E",
+            "first_ascent": 1964,
+            "description": "Shishapangma is situated in the Jugal Himalaya range, also known as Gosainthan. The first successful ascent was by a Chinese team in 1964. It is the only eight-thousander completely within the Chinese border. Compared to other eight-thousanders, it is considered less difficult to climb and is often used as training for other more challenging peaks. However, climbers still need to be cautious of threats like avalanches and the low oxygen level at high altitudes.",
+            "id": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950",
+            "id_range": "38dbad45-5292-4e5f-9eec-5f9ac3e48195",
+            "country_codes": [
+                "CN",
+                "NP"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Gyachung Kang",
+            "height": 7952,
+            "prominence": 672,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°05'53''N 86°44'42''E",
+            "first_ascent": 1964,
+            "description": "Nestled in the Mahalangur Himalaya range between Nepal and China, Gyachung Kang stands as the highest peak among those under 8000 meters. It was first successfully climbed in 1964 by Yukihiko Kato and Kiyondo Sakeizawa. Climbers face challenges such as technical rock and ice climbing. The remoteness of the mountain increases the difficulty of the climb, as it is further away from the support available at popular climbing routes.",
+            "id": "e2e04e3b-816b-4862-b238-953bdab51b28",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Gasherbrum III, K3a",
+            "height": 7946,
+            "prominence": 355,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°45'33''N 76°38'30''E",
+            "first_ascent": 1975,
+            "description": "Situated on the border between China and Pakistan, Gasherbrum III, also known as K3a, is part of the Gasherbrum massif in the Karakoram range. It was first ascended by female Polish climbers Wanda Rutkiewicz and Alison Chadwick-Onyszkiewicz in 1975. Although its altitude is slightly lower than its neighboring peaks, noteworthy challenges may include frequent severe weather conditions, risks of falling ice and rock, and the absence of clear climbing paths due to its less frequent ascents.",
+            "id": "2cd368c6-c14e-4111-9baf-33b46623b316",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Annapurna II",
+            "height": 7937,
+            "prominence": 2437,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°32'05''N 84°07'19''E",
+            "first_ascent": 1960,
+            "description": "Located in the Annapurna range of the Himalayas in Nepal, Annapurna II is the eastern anchor of the range. The British team of Richard Grant, Chris Bonington, and Sherpa Ang Nyima made the first successful ascent in 1960. Key challenges for mountaineers include potential risks of avalanches, the complexity of the climbing routes, and severe weather conditions that may occur due to the mountain's great height.",
+            "id": "86d971fd-e066-42a1-8d00-123578aa3351",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "9b7219ae-0cf9-4c1b-b53b-658c33fd970f"
+        },
+        {
+            "name": "Gasherbrum IV, K3",
+            "height": 7932,
+            "prominence": 712,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°45'38''N 76°36'58''E",
+            "first_ascent": 1958,
+            "description": "Also known as K3, Gasherbrum IV is located in the Baltoro Karakoram range in Pakistan. First successfully climbed in 1958 by Walter Bonatti and Carlo Mauri, it's widely considered one of the most visually striking mountains in the world. It is also considered one of the most challenging mountains to climb, mostly due to its steep, icy slopes, frequent avalanches, and complex climbing routes.",
+            "id": "63bfbf89-deb6-43ba-8e82-844c9ada468a",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Himalchuli",
+            "height": 7893,
+            "prominence": 1633,
+            "range": "Manaslu Himalaya",
+            "coordinates": "28°26'12''N 84°38'23''E *",
+            "first_ascent": 1960,
+            "description": "Himalchuli, part of the Nepalese Manaslu Himalaya range, was first ascended by an American team in 1960. The mountain features steep, compact flanks, which makes the climb technically challenging. Issues like weather, avalanches, and crevasses also pose risks. Despite the high difficulty level of climbing, its unique pyramid-shaped summit attracts many experienced mountaineers.",
+            "id": "5957ac8b-d387-441b-9de7-8575f1dbf91a",
+            "id_range": "2f78d6e2-4594-44e6-97a0-aa649a018ef9",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "c258b9c6-b61e-410a-a664-2f57aeeb3ced"
+        },
+        {
+            "name": "Distaghil Sar",
+            "height": 7884,
+            "prominence": 2525,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°19'33''N 75°11'16''E",
+            "first_ascent": 1960,
+            "description": "Distaghil Sar is located in the Hispar Karakoram range in Pakistan. The mountain was first successfully ascended by an Austrian team in 1960. Despite being one of the less famous 8000m peaks, its challenging terrain with steep icy slopes and the high risk of avalanches make it a formidable climb. It is still less frequented by climbers compared to other high-altitude peaks.",
+            "id": "cb1f586b-3075-42ed-9c3f-5ac18b50f520",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "9941ed5c-e137-402c-9c54-4495c3faedf4"
+        },
+        {
+            "name": "Ngadi Chuli",
+            "height": 7871,
+            "prominence": 1011,
+            "range": "Manaslu Himalaya",
+            "coordinates": "28°30'12''N 84°34'00''E",
+            "first_ascent": 1979,
+            "description": "Ngadi Chuli is part of the Manaslu Himalaya range in Nepal. The first ascent was made by a Japanese team in 1979. The lack of a well-established route and frequent severe storms make this a challenging peak to summit. It is considered one of the most difficult 7000ers due to its steep climbing sections and the considerable risk of avalanche.",
+            "id": "258343f0-0b84-499e-a9ab-4592d2002eab",
+            "id_range": "2f78d6e2-4594-44e6-97a0-aa649a018ef9",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "c258b9c6-b61e-410a-a664-2f57aeeb3ced"
+        },
+        {
+            "name": "Nuptse",
+            "height": 7864,
+            "prominence": 305,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°58'03''N 86°53'13''E",
+            "first_ascent": 1961,
+            "description": "Nuptse is located in the Khumbu region of the Nepalese Himalayas. Its name translates to 'West Peak' in Tibetan. Since the first successful ascent in 1961 by a British team, climbers have been attracted to its steep and icy southern slope. Snowstorms and avalanches pose significant threats. Its close proximity to Everest makes it a good training peak.",
+            "id": "21b30036-7c5b-4aee-8c60-e19a7b863ef5",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "0279ff36-bb0a-4774-be62-b9a3691059db"
+        },
+        {
+            "name": "Khunyang Chhish",
+            "height": 7823,
+            "prominence": 1765,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°12'19''N 75°12'28''E *",
+            "first_ascent": 1971,
+            "description": "Khunyang Chhish is the highest peak in the Hispar Muztagh, a subrange of the Karakoram range. It was first ascended by a Polish team in 1971. The mountain is known for its extremely steep slopes and challenging climbing conditions, including potential for avalanches and severe weather such as heavy snowstorms. Khunyang Chhish's remote location makes the mountaineering logistics more challenging.",
+            "id": "5bf28008-6089-4527-9de7-86a4ed0ed18b",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "cb1f586b-3075-42ed-9c3f-5ac18b50f520"
+        },
+        {
+            "name": "Masherbrum, K1",
+            "height": 7821,
+            "prominence": 2457,
+            "range": "Masherbrum Karakoram",
+            "coordinates": "35°38'28''N 76°18'21''E",
+            "first_ascent": 1960,
+            "description": "Masherbrum, or K1, is located in the Karakoram range in Pakistan. The first successful ascent was in 1960 by a Pakistani-Polish team. The trek to the base of the mountain is a demanding journey, followed by complex and steep climbing sections prone to the danger of avalanches. Despite its beauty and high altitude, it is not as frequently climbed due to its remote location.",
+            "id": "551e44ce-48d9-4643-ad25-b9c42d45f7b6",
+            "id_range": "6230fc9a-0700-43df-bac7-5095f3189fb8",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Nanda Devi",
+            "height": 7816,
+            "prominence": 3139,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°22'33''N 79°58'15''E",
+            "first_ascent": 1936,
+            "description": "Nanda Devi is the second highest mountain in India and the highest entirely within the country's borders, situated in the Garhwal Himalayas. The mountain was first scaled successfully in 1936 by a British-American team. Increasing environmental concerns led the government to ban expeditions in the area in 1983. The mountain has steep ascent routes, avalanche prone areas, and extreme elevations, making it challenging for climbers.",
+            "id": "1ee017fe-17bb-49c9-aa7f-a990e8f2b15e",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Chomo Lonzo",
+            "height": 7804,
+            "prominence": 590,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°55'50''N 87°06'28''E",
+            "first_ascent": 1954,
+            "description": "Located in Tibet, Chomo Lonzo is a large mountain masswith three peaks, lying to the north of Makalu, one of the eight-thousanders. It was first ascended in 1954 by a French team. The successful climbers noted the snowy terrain, high winds, and extremely cold temperatures on the peak. Despite being less known, Chomo Lonzo is a challenging climb due to its icy slopes, and the potential for severe weather conditions.",
+            "id": "7d6a1dea-56f5-4472-ba98-a98b37fb2d9e",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "bb75eab5-08bc-4862-a0f3-b9b50aecc7b0"
+        },
+        {
+            "name": "Batura Sar",
+            "height": 7795,
+            "prominence": 3118,
+            "range": "Batura Karakoram",
+            "coordinates": "36°30'37''N 74°31'21''E",
+            "first_ascent": 1976,
+            "description": "Batura Sar is part of the Batura Muztagh subrange of the Karakoram range, located in Pakistan. The mountain was first successfully ascented in 1976 by a German team. One of the defining features of Batura Sar is its long, steep ridge. Climbing on this mountain is challenging due to the combination of extreme altitude, the technical difficulty of the routes, and unpredictable Karakoram weather.",
+            "id": "8571622f-6f39-4f09-890b-5ccf1b31195f",
+            "id_range": "4d5efa7d-e8c9-424b-b56d-41827bb17fbe",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "cb1f586b-3075-42ed-9c3f-5ac18b50f520"
+        },
+        {
+            "name": "Rakaposhi",
+            "height": 7788,
+            "prominence": 2818,
+            "range": "Rakaposhi-Haramosh Karakoram",
+            "coordinates": "36°08'33''N 74°29'22''E",
+            "first_ascent": 1958,
+            "description": "Rakaposhi, also known as 'Mother of Mist' or 'Mother of Clouds' in local languages, is located in the northern Pakistani region of Gilgit-Baltistan. Its beauty and accessibility from the nearby Karakoram Highway make it a popular attraction. A British-Pakistani expedition successfully made the first ascent in 1958. Rakaposhi is renowned for its exceptional rise over local terrain. Climbers face challenges such as very high altitude, variable and severe weather, as well as significant technical climbing along routes.",
+            "id": "5505216d-ab1b-45fa-8f83-f5fee5ea9509",
+            "id_range": "f065c062-fd7c-4944-bc41-176fa2077136",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "5bf28008-6089-4527-9de7-86a4ed0ed18b"
+        },
+        {
+            "name": "Namcha Barwa",
+            "height": 7782,
+            "prominence": 4106,
+            "range": "Assam Himalaya",
+            "coordinates": "29°37'52''N 95°03'19''E",
+            "first_ascent": 1992,
+            "description": "Namcha Barwa is located in the Assam Himalaya range, in the eastern edge of the Tibetan Plateau. Because of the extreme terrain and weather, it remained one of the last unclimbed peaks over 7600 meters until a Chinese expedition reached the top in 1992. The peak presents significant challenges for climbers such as rock climbing, steep snow climbing, traversing narrow ridges, as well as the high altitude and unpredictable weather.",
+            "id": "710ece70-cd42-4ec1-90d9-d0b9a81842da",
+            "id_range": "bde519fd-3d8f-493f-ad71-c16f43c874cd",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Kanjut Sar",
+            "height": 7760,
+            "prominence": 166,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°12'20''N 75°25'01''E",
+            "first_ascent": 1959,
+            "description": "Nestled in the Hispar Karakoram range, Kanjut Sar was first successfully climbed by Italian mountaineers in 1959. Despite being not as tall as nearby peaks, it presents a difficult challenge because of the steepness of its slopes and the predominantly icy conditions, which can make the climbing treacherous. The level of difficulty is further increased by unpredictable weather conditions and a high risk of avalanches.",
+            "id": "fb31ea7f-0abc-4747-8863-2f8ce5c5a1e3",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "5bf28008-6089-4527-9de7-86a4ed0ed18b"
+        },
+        {
+            "name": "Kamet",
+            "height": 7756,
+            "prominence": 2825,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°55'12''N 79°35'30''E *",
+            "first_ascent": 1931,
+            "description": "Kamet is located in the Garhwal region of northern India and was long considered the highest mountain accessible to climbers before the 19th century. It was first summited by a British team in 1931. Kamet features a variety of terrains, such as steep ice and rock sections, which can pose severe challenges for climbers. Also, due to its significant altitude, the small prominence and the inclement weather can add to the climbing difficulties.",
+            "id": "3764b6da-49a0-466d-a479-aec088a02510",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": "1ee017fe-17bb-49c9-aa7f-a990e8f2b15e"
+        },
+        {
+            "name": "Dhaulagiri II",
+            "height": 7751,
+            "prominence": 2397,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°45'46''N 83°23'18''E",
+            "first_ascent": 1971,
+            "description": "Located in Nepal, Dhaulagiri II is part of the Dhaulagiri range. It was first summited in 1971 by a team from Austria. The climbing route involves traversing a high and exposed ridge, which is prone to avalanches and is technically challenging. The extreme cold weather, altitude sickness, and the need for proper acclimatization are some additional obstacles climbers face.",
+            "id": "d5e278ca-26ba-4ba5-b7e2-a3ae0e0b9fd1",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Dhaulagiri II",
+            "height": 7751,
+            "prominence": 2397,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°45'46''N 83°23'18''E",
+            "first_ascent": 1971,
+            "description": "Located in Nepal, Dhaulagiri II is part of the Dhaulagiri range. It was first summited in 1971 by a team from Austria. The climbing route involves traversing a high and exposed ridge, which is prone to avalanches and is technically challenging. The extreme cold weather, altitude sickness, and the need for proper acclimatization are some additional obstacles climbers face.",
+            "id": "9a664541-ccfc-439f-b403-7785abc2e1db",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Saltoro Kangri, K10",
+            "height": 7742,
+            "prominence": 216,
+            "range": "Saltoro Karakoram",
+            "coordinates": "35°23'57''N 76°50'53''E *",
+            "first_ascent": 1962,
+            "description": "Saltoro Kangri, also known as K10, is the highest peak of the Saltoro Mountains, a subrange of the Karakoram Range. It was first summited in 1962. Due to its location near the Actual Ground Position Line between India and Pakistan, it is not easily accessible for climbers. Mountaineers would face challenges due to political restrictions, unpredictable weather, and technical climbing difficulties. It's known for its striking beauty and imposing stature.",
+            "id": "ae01b2e0-6de9-4dd1-8326-5b317a57c947",
+            "id_range": "b9c5bae4-a7a3-4246-8229-e48d68d160cf",
+            "country_codes": [
+                "IN",
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Kumbhakarna, Jannu",
+            "height": 7711,
+            "prominence": 1036,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°40'56''N 88°02'40''E *",
+            "first_ascent": 1962,
+            "description": "Kumbhakarna, also known as Jannu, is part of the Kangchenjunga Himalaya range in Nepal. It was first climbed in 1962. The mountain is well-known for its formidable climbing difficulties including steep ascents, corniced ridges, and ice walls. The weather fluctuations and risks of avalanches add challenges to those attempting to summit this peak.  It's considered one of the most impressive mountains in the world due to its striking north face.",
+            "id": "ca096b0c-076d-45e5-86bb-667311468514",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Tirich Mir",
+            "height": 7708,
+            "prominence": 391,
+            "range": "Hindu Kush",
+            "coordinates": "36°15'19''N 71°50'30''E *",
+            "first_ascent": 1950,
+            "description": "Tirich Mir is the highest mountain of the Hindu Kush range, located in Pakistan. It was first summited in 1950. The mountain is prone to avalanches and severe weather changes, which make the ascent technically challenging. Moreover, acclimatization to its altitude and inclement weather conditions are considered to be additional challenges to climbers. Despite these challenges, the climb rewards with striking views of the Chitral Valley.",
+            "id": "3bdd39db-0e57-4a9e-bcc9-203eab747f9f",
+            "id_range": "2890a949-b29e-4c5a-b9b5-f16ee1614023",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8571622f-6f39-4f09-890b-5ccf1b31195f"
+        },
+        {
+            "name": "Molamenqing",
+            "height": 7703,
+            "prominence": 433,
+            "range": "Langtang Himalaya",
+            "coordinates": "28°21'18''N 85°48'35''E",
+            "first_ascent": 1981,
+            "description": "Molamenqing is a significant peak within the Langtang Himalaya range in China. Its first ascend was recorded in 1981. Its fairly low prominence of 433 meters adds to the challenge of ascending this mountain due to lack of distinctive peak. Unique challenges include its sharp peak and the considerable vertical relief above local terrain. It can pose an extreme challenge for even experienced alpinists due to its complex topography and high altitude.",
+            "id": "5ec5162d-8c60-49f9-b680-5bbff0a1d8bb",
+            "id_range": "b42dc716-9e76-4eaa-a20e-a7f966ffb9a3",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Gurla Mandhata",
+            "height": 7694,
+            "prominence": 2788,
+            "range": "Nalakankar Himalaya",
+            "coordinates": "30°26'19''N 81°17'48''E",
+            "first_ascent": 1985,
+            "description": "Gurla Mandhata is one of the highest mountains of the Nalakankar Himalaya range in Tibet, reaching a height of 7694 meters. The mountain was first ascended in 1985. The mountain is famed for its distinct summit, which is often covered in thick layers of snow and ice, making the climb particularly challenging. Being a part of the remote region in Tibet, harsh weather conditions and the risk of avalanches present additional challenges for climbers. It's one of the more solitary climbing experiences as it draws fewer climbers due to its remote location.",
+            "id": "6eee71f4-89a2-4c6c-9ded-4ba790a2d949",
+            "id_range": "d22b8ade-2f2e-40a4-bf07-5833d2687550",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Saser Kangri I, K22",
+            "height": 7672,
+            "prominence": 2304,
+            "range": "Saser Karakoram",
+            "coordinates": "34°52'00''N 77°45'09''E",
+            "first_ascent": 1973,
+            "description": "Saser Kangri I, K22, is the highest peak in the Saser Muztagh, the easternmost subrange of the Karakoram range in India. The mountain was first successfully climbed in 1973. With a height of 7672 meters, its high peak adds serious technical challenges, along with risks of altitude sickness. The most common barrier climbers face when attempting to reach the summit of this mountain are the unpredictable and harsh weather conditions. Climbers must also negotiate complex glaciers and steep snow slopes.",
+            "id": "4e81fa3e-af8d-4cc6-938d-c58078a125b1",
+            "id_range": "16d12e52-ca78-4e59-aa3a-e9009c7b6eba",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Chogolisa",
+            "height": 7665,
+            "prominence": 1624,
+            "range": "Masherbrum Karakoram",
+            "coordinates": "35°36'47''N 76°34'29''E",
+            "first_ascent": 1975,
+            "description": "Chogolisa is a mountain in the Karakoram range, in Pakistan. It was first ascended in 1975, but it's a challenge for mountaineers due to its steep slopes and the risk of avalanches. This mountain is also known for its adverse weather conditions like extreme cold and wind. Its parent mountain is Gasherbrum I, and it's situated in the Masherbrum subrange of the Karakoram.",
+            "id": "db611f2d-3311-40c3-867e-9c6c36072b24",
+            "id_range": "6230fc9a-0700-43df-bac7-5095f3189fb8",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Dhaulagiri IV",
+            "height": 7661,
+            "prominence": 469,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°44'09''N 83°18'55''E",
+            "first_ascent": 1975,
+            "description": "Dhaulagiri IV is located in Nepal, and it is part of the Dhaulagiri Himalaya range. This mountain has a height of 7661 m and was first successfully climbed in 1975. It's neighboring mountain, Dhaulagiri II, is considered its parent mountain. Mountaineering challenges on this peak involve navigating through seracs and dealing with the high altitude and harsh weather conditions.",
+            "id": "114d5bdf-76be-4631-b051-d0c7b4fdc93b",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "d5e278ca-26ba-4ba5-b7e2-a3ae0e0b9fd1"
+        },
+        {
+            "name": "Kongur Tagh",
+            "height": 7649,
+            "prominence": 3585,
+            "range": "Kongur Shan (Eastern Pamirs)",
+            "coordinates": "38°35'36''N 75°18'48''E",
+            "first_ascent": 1981,
+            "description": "Kongur Tagh is the highest peak within the Pamir Mountains, located in China. The mountain is notable for its large, steep rise above local terrain. Climbers would face considerable danger from high altitude, avalanches, and technical climbing on this peak. The first successful ascent was made in 1981. Distaghil Sar is its parent mountain.",
+            "id": "11d78dd2-dcd0-4a4c-a302-5ac6ca20ed6b",
+            "id_range": "79e8862e-3cf9-453f-96aa-5c11c5046be2",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "cb1f586b-3075-42ed-9c3f-5ac18b50f520"
+        },
+        {
+            "name": "Dhaulagiri V",
+            "height": 7618,
+            "prominence": 340,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°44'02''N 83°21'41''E *",
+            "first_ascent": 1975,
+            "description": "Dhaulagiri V is a part of the Dhaulagiri range in Nepal and stands at an altitude of 7618 m. Its summit was first reached in 1975 and presents mountaineers with several challenges, including risks from avalanches and extreme weather. The parent mountain of Dhaulagiri V is Dhaulagiri IV. This peak is not often climbed and remains an appealing challenge for experienced mountaineers.",
+            "id": "27ecec0d-413a-4c54-ae83-fe3c48ca81e5",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "114d5bdf-76be-4631-b051-d0c7b4fdc93b"
+        },
+        {
+            "name": "Shispare",
+            "height": 7611,
+            "prominence": 124,
+            "range": "Batura Karakoram",
+            "coordinates": "36°26'26''N 74°40'51''E",
+            "first_ascent": 1974,
+            "description": "The mountain Shispare, situated in Pakistan, is part of the Batura Karakoram range. Despite its high altitude of 7611 m, the prominence of the summit is only 124 m. The first ascent was successfully made in 1974. Treacherous weather conditions, steep slopes, and high altitude represent the main challenges for climbers. Shispare’s parent mountain is Batura Sar.",
+            "id": "e129ca4d-4863-41c6-8dd7-17eaaf00094a",
+            "id_range": "4d5efa7d-e8c9-424b-b56d-41827bb17fbe",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8571622f-6f39-4f09-890b-5ccf1b31195f"
+        },
+        {
+            "name": "Trivor",
+            "height": 7577,
+            "prominence": 997,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°17'15''N 75°05'06''E *",
+            "first_ascent": 1960,
+            "description": "Trivor was first climbed in 1960 by a British expedition. This mountain, located in the Hispar Karakoram range, is known for its hazardous weather conditions which often include heavy snowfall and strong winds. Climbers would face a great deal of technical climbing above 7000 feet, requiring a high level of fitness and acclimatization. Additionally, they must be prepared to tackle potential avalanche risks and the challenging glacier crossing to reach its summit.",
+            "id": "760e6f69-1520-4fde-bdb5-2eb19fe58b8f",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "cb1f586b-3075-42ed-9c3f-5ac18b50f520"
+        },
+        {
+            "name": "Gangkhar Puensum",
+            "height": 7570,
+            "prominence": 2995,
+            "range": "Kula Kangri Himalaya",
+            "coordinates": "28°02'50''N 90°27'19''E *",
+            "first_ascent": 0,
+            "description": "Gangkhar Puensum is historically noted as the highest unclimbed mountain in the world due to the climbing ban in place by the Bhutanese government. Ethical and spiritual matters present additional challenges for adventurers wanting to conquer its peak. It is reputed for its rugged and rocky terrain, as well as its unpredictable weather conditions. In addition, mountaineers would require specialized resources and knowledge to navigate the high-altitude wilderness.",
+            "id": "100c2093-5d8d-407c-98a1-fb56037e847a",
+            "id_range": "6b35a7b8-818e-4c93-a333-53912022ec12",
+            "country_codes": [
+                "BT",
+                "CN"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Minya Konka",
+            "height": 7556,
+            "prominence": 3642,
+            "range": "Daxue Mountains (Hengduan Shan)",
+            "coordinates": "29°35'43''N 101°52'47''E",
+            "first_ascent": 1932,
+            "description": "Minya Konka was first summited by an American expedition in 1932. As the highest peak in the Daxue Mountains, it poses great challenges to climbers including dangerous crevasses, unpredictable weather, and its potential for avalanches. The southern slope of the mountain is incredibly steep and cloaked in ice, requiring climbers to tackle complex ice and rock climbing routes. Additionally, it is located in a remote region of China, making the logistics of the climb particularly challenging.",
+            "id": "ecb9b725-9acf-4a01-9747-0cb2cbe0ec97",
+            "id_range": "5b09062b-639f-410e-ab69-f3d43a942b4e",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Annapurna III",
+            "height": 7555,
+            "prominence": 703,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°35'06''N 83°59'24''E",
+            "first_ascent": 1961,
+            "description": "Annapurna III, first climbed by an Indian-Nepali team in 1961, is part of the major peaks of the Annapurna Massif. The mountain challenges climbers with mixed trails of rock, ice, and steep snow descents. The technical difficulty of the different faces and ridges, combined with the challenging rescue conditions at high altitudes, makes this both a risky and thrilling climb. Extreme weather conditions, including strong winds and sudden storms, further increase the challenges imposed on climbers.",
+            "id": "85d14111-186a-42d7-8c67-af613b6f682f",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "9b7219ae-0cf9-4c1b-b53b-658c33fd970f"
+        },
+        {
+            "name": "Skyang Kangri",
+            "height": 7545,
+            "prominence": 1085,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°55'35''N 76°34'03''E",
+            "first_ascent": 1976,
+            "description": "First scaled by a Japanese team in 1976, Skyang Kangri imposes a near-impossible climb due to its steep icy ridges and cornices. It is situated in the rugged Baltoro Karakoram range, known for its harsh weather and low oxygen levels. To attempt this ascend, mountaineers need to have technical climbing skills and the ability to cope with the challenging conditions at high altitudes. Avalanches also pose a significant risk, as it usually does on the steeper slopes of high mountains.",
+            "id": "3605e69c-bc21-41c9-bdab-64ba40b9fc5e",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": "9941ed5c-e137-402c-9c54-4495c3faedf4"
+        },
+        {
+            "name": "Changtse",
+            "height": 7543,
+            "prominence": 514,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°01'29''N 86°54'51''E",
+            "first_ascent": 1982,
+            "description": "Changtse was first scaled by a Chinese team in 1982. It stands north of Mount Everest and is often an overlooked but lofty neighbor. The terrain can be steep and treacherous and the climate conditions at such high altitudes bring extreme cold, high winds, and sudden weather changes. Moreover, the altitude presents risks of Acute Mountain Sickness (AMS) and requires a high degree of physical fitness and advanced mountaineering skills to tackle it.",
+            "id": "81456d81-51fd-49fd-8eca-1e342d5371dc",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Kula Kangri",
+            "height": 7538,
+            "prominence": 1654,
+            "range": "Kula Kangri Himalaya",
+            "coordinates": "28°13'37''N 90°36'59''E",
+            "first_ascent": 1986,
+            "description": "Kula Kangri was first climbed by a joint Japan-China team in 1986. It is situated in a remote location and presents a serious challenge even for experienced climbers. The harsh and unpredictable weather, strong winds, and extreme cold impose additional difficulties to those trying to reach its summit. Climbers are also likely to face large crevasses and avalanches due to the steep, glaciated terrains.",
+            "id": "3cf3fa9b-8c89-4a14-abed-31ad5db6b6b1",
+            "id_range": "6b35a7b8-818e-4c93-a333-53912022ec12",
+            "country_codes": [
+                "CN",
+                "BT"
+            ],
+            "id_parent": "100c2093-5d8d-407c-98a1-fb56037e847a"
+        },
+        {
+            "name": "Kongur Tiube",
+            "height": 7530,
+            "prominence": 840,
+            "range": "Kongur Shan (Eastern Pamirs)",
+            "coordinates": "38°36'57''N 75°11'45''E",
+            "first_ascent": 1956,
+            "description": "Kongur Tiube was summitted first by a Russian team in 1956. It is known for fierce winds, heavy snowfalls, and frequent storms which greatly increase the difficulty of ascent. Furthermore, the high altitude imposes a risk of altitude sickness, and the mountain's remoteness complicates any rescue operations. The area around the mountain is also reportedly prone to earthquakes, adding an additional hazard for climbers.",
+            "id": "e9a75981-b81b-4c4a-9906-5f9143d5c2ab",
+            "id_range": "79e8862e-3cf9-453f-96aa-5c11c5046be2",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "11d78dd2-dcd0-4a4c-a302-5ac6ca20ed6b"
+        },
+        {
+            "name": "Annapurna IV",
+            "height": 7525,
+            "prominence": 255,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°32'15''N 84°4'58''E",
+            "first_ascent": 1955,
+            "description": "Annapurna IV, first scaled by a German expedition in 1955, is part of the Annapurna Massif. Its approach is lengthy and complicated with steep snow, ice climbs, and treacherous weather conditions. Its high altitude requires acclimatization while the remoteness makes rescue difficult. The presence of crevasses and the risks of avalanches represent major potential dangers to climbers.",
+            "id": "67b8c5af-6620-407a-9ca8-3ff3456688f1",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Mamostong Kangri",
+            "height": 7516,
+            "prominence": 1803,
+            "range": "Rimo Karakoram",
+            "coordinates": "35°08'31''N 77°34'39''E",
+            "first_ascent": 1984,
+            "description": "Mamostong Kangri was first climbed by an Indian Army team in 1984. It is located in the remote Rimo Karakoram range in India and is infamous for extreme weather conditions, dangerous avalanche-prone slopes, and altitude sickness. Glacier travel and technical ice climbing skills are necessary for this ascent, making it a challenging climb even for experienced mountaineers. Its remote location also imposes logistical challenges and makes rescue operations difficult.",
+            "id": "88e0dad2-df5f-4ed0-b1a5-c3c126e47562",
+            "id_range": "1a9c1d51-fdb5-4e9b-adbb-aa8fbba1f23d",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Saser Kangri II E",
+            "height": 7513,
+            "prominence": 1458,
+            "range": "Saser Karakoram",
+            "coordinates": "34°48'17''N 77°48'24''E",
+            "first_ascent": 2011,
+            "description": "Saser Kangri II E was first scaled recently in 2011 by an American team. It is situated in a remote region which results in longer approaches and complicated logistics. Climbers would face challenges including dealing with extreme cold, heavy snowfall, risk of avalanches, and treacherous crevasses. Technical climbing skills, careful preparation, and excellent physical conditioning are necessary to tackle this peak.",
+            "id": "4a335122-ebc9-4fd3-8b60-a2c729415216",
+            "id_range": "16d12e52-ca78-4e59-aa3a-e9009c7b6eba",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Muztagh Ata",
+            "height": 7509,
+            "prominence": 2698,
+            "range": "Muztagata (Eastern Pamirs)",
+            "coordinates": "38°16'33''N 75°06'58''E",
+            "first_ascent": 1956,
+            "description": "Muztagh Ata was first successfully ascended by a Chinese and Russian team in 1956. It is known for its ice-cap summit and is popular among ski mountaineers. High altitude, low oxygen levels, heavy snowfall, and sudden weather changes add to the difficulty of the climb. Furthermore, the icy terrain demands expertise in ice climbing while the remoteness of the region complicates logistics and potential rescue missions.",
+            "id": "fa1e7fed-df1c-4159-b482-ef77bdb69984",
+            "id_range": "3b5bce0e-9012-4b64-b615-dfce293f942b",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "11d78dd2-dcd0-4a4c-a302-5ac6ca20ed6b"
+        },
+        {
+            "name": "Ismoil Somoni Peak",
+            "height": 7495,
+            "prominence": 3402,
+            "range": "Pamir (Academy of Sciences Range)",
+            "coordinates": "38°56'35''N 72°00'57''E",
+            "first_ascent": 1933,
+            "description": "The Ismoil Somoni Peak was first ascended by a Soviet team in 1933. Its location in the remote Pamirs range makes the climb challenging due to extreme weather conditions and complex topography. Technical ice-climbing and the risk of crevasses add to the challenges of this summit. Its high altitude and the need for acclimatization also create a necessity for careful planning and conditioning for climbers.",
+            "id": "eeac0848-2ef6-4b2d-b62f-0e509ed7225e",
+            "id_range": "78f4510b-e8f3-41e8-8bc5-5585aea7934e",
+            "country_codes": [
+                "TJ"
+            ],
+            "id_parent": "fa1e7fed-df1c-4159-b482-ef77bdb69984"
+        },
+        {
+            "name": "Saser Kangri III",
+            "height": 7495,
+            "prominence": 835,
+            "range": "Saser Karakoram",
+            "coordinates": "34°50'44''N 77°47'06''E",
+            "first_ascent": 1986,
+            "description": "Saser Kangri III, located in the Saser Karakoram range in India, was first ascended in 1986. Despite being the 51st tallest peak on Earth, it's one of the less explored mountains due to its remote location. Treacherous ice falls, avalanches and inclement weather pose serious challenges for the mountaineers and it's considered among the tough peaks to climb in India.",
+            "id": "fb24be37-4acc-4102-a2de-0c4f83fde9a7",
+            "id_range": "16d12e52-ca78-4e59-aa3a-e9009c7b6eba",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Noshaq",
+            "height": 7492,
+            "prominence": 2024,
+            "range": "Hindu Kush",
+            "coordinates": "36°25'56''N 71°49'43''E",
+            "first_ascent": 1960,
+            "description": "Noshaq is the highest peak in the Hindu Kush range, straddling the border of Afghanistan and Pakistan. First climbed in 1960, the ascent is marked by harsh, unpredictable weather and avalanche risk. The political instability of the region also adds to the challenges faced by climbers.",
+            "id": "2a048e30-b5c2-45cc-9204-a3d35deafe7e",
+            "id_range": "2890a949-b29e-4c5a-b9b5-f16ee1614023",
+            "country_codes": [
+                "AF",
+                "PK"
+            ],
+            "id_parent": "3bdd39db-0e57-4a9e-bcc9-203eab747f9f"
+        },
+        {
+            "name": "Pumari Chhish",
+            "height": 7492,
+            "prominence": 884,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°12'41''N 75°15'01''E",
+            "first_ascent": 1979,
+            "description": "Pumari Chhish lies in the Hispar Karakoram range in Pakistan. First climbed in 1979, it is known for its steep rock and ice climbs. The complex glaciated terrain and the frequent rock falls pose high risks for climbers, making it a test of both their physical prowess and mental toughness.",
+            "id": "ae6d3d50-ccc8-4a5f-a83c-136f561d82fa",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "5bf28008-6089-4527-9de7-86a4ed0ed18b"
+        },
+        {
+            "name": "Passu Sar",
+            "height": 7476,
+            "prominence": 647,
+            "range": "Batura Karakoram",
+            "coordinates": "36°29'16''N 74°35'16''E",
+            "first_ascent": 1994,
+            "description": "Passu Sar, one of the notable mountains in the Batura Karakoram range, was first ascended in 1994. Its extreme cold temperatures coupled with serac dangers - towering blocks of glacial ice, pose significant challenges to mountaineers. The steep, unstable slopes are prone to avalanche activity, that demands expert skills and experience to navigate.",
+            "id": "45b58add-ae6d-4b62-9690-2e1bbfbd4dcb",
+            "id_range": "4d5efa7d-e8c9-424b-b56d-41827bb17fbe",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8571622f-6f39-4f09-890b-5ccf1b31195f"
+        },
+        {
+            "name": "Yukshin Gardan Sar",
+            "height": 7469,
+            "prominence": 1374,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°15'04''N 75°22'29''E",
+            "first_ascent": 1984,
+            "description": "Yukshin Gardan Sar is located in the Hispar Karakoram range in Pakistan. The first successful ascent was in 1984. The mountain offers a challenging climb due to its steep faces and the technical difficulty of its standard route. Ice avalanches and rockfalls are common, hence causing difficulties for climbers to reach the summit.",
+            "id": "1b8e0d53-a104-40bf-b122-c35468913410",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "ae6d3d50-ccc8-4a5f-a83c-136f561d82fa"
+        },
+        {
+            "name": "Teram Kangri I",
+            "height": 7462,
+            "prominence": 1703,
+            "range": "Siachen Karakoram",
+            "coordinates": "35°34'48''N 77°04'42''E",
+            "first_ascent": 1975,
+            "description": "Teram Kangri I, located in the disputed Siachen region between India and China, first found its conquerors in 1975. The peak is relatively difficult to reach due to its remote location and military tensions in the region. Moreover, climbers must also be prepared for dangerous avalanches and severe weather conditions.",
+            "id": "f96799f4-d9be-4472-97c2-4fb43d618faf",
+            "id_range": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Jongsong Peak",
+            "height": 7462,
+            "prominence": 1298,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°52'54''N 88°08'09''E",
+            "first_ascent": 1930,
+            "description": "Jongsong Peak, in the Kangchenjunga Himalaya range, has its summit at a three-way border of Nepal, India, and China. First climbed in 1930, it is one of the less known 7,000m peaks. Combating unpredictable weather, especially wind chills and snowstorms, and navigating complex glaciated terrain are key challenges faced by climbers.",
+            "id": "9607d9ce-d82f-4d00-acb8-c79821a91d63",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "IN",
+                "CN",
+                "NP"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Malubiting",
+            "height": 7458,
+            "prominence": 2193,
+            "range": "Rakaposhi-Haramosh Karakoram",
+            "coordinates": "36°00'12''N 74°52'31''E",
+            "first_ascent": 1971,
+            "description": "Malubiting is the highest peak in the Rakaposhi-Haramosh range of Pakistan. It was first successfully climbed in 1971. The treacherous mountain trails, crevasses, and the risk of avalanche make it a challenging ascent. While the peak is relatively less explored, it is known for its mesmerizing beauty.",
+            "id": "8c11abd7-11fa-4295-8015-7b2ec710459f",
+            "id_range": "f065c062-fd7c-4944-bc41-176fa2077136",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "5505216d-ab1b-45fa-8f83-f5fee5ea9509"
+        },
+        {
+            "name": "Gangapurna",
+            "height": 7455,
+            "prominence": 563,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°36'18''N 83°57'49''E",
+            "first_ascent": 1965,
+            "description": "Gangapurna is located in the Annapurna range of Nepal and got its first successful ascent in 1965. Much of its reputation arises from its incredibly diverse and dangerous terrain, a combination of steep ice sections and rock exposures, which present considerable challenges to the climber's technical skills and endurance.",
+            "id": "265218d1-89e8-4432-bf95-afcfe0d3fb0e",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "85d14111-186a-42d7-8c67-af613b6f682f"
+        },
+        {
+            "name": "Jengish Chokusu",
+            "height": 7439,
+            "prominence": 4148,
+            "range": "Tian Shan",
+            "coordinates": "42°02'05''N 80°07'47''E",
+            "first_ascent": 1956,
+            "description": "Jengish Chokusu, also known as Victory Peak, is the highest mountain in the Tian Shan mountain range. It's located on the border between Kyrgyzstan and China. Climbers here face potential challenges from avalanches, glacial crevasses, and cold, unpredictable weather. This mountain was first successfully climbed in 1956.",
+            "id": "61073db0-0b6b-46f0-952b-8cfca6728014",
+            "id_range": "566072cf-bbf7-4025-b113-a01f5e4af149",
+            "country_codes": [
+                "KG",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Sunanda Devi",
+            "height": 7434,
+            "prominence": 229,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°22'00''N 79°59'40''E",
+            "first_ascent": 1939,
+            "description": "Sunanda Devi, also known as Nanda Devi East, is located in India's Garhwal Himalaya range. The mountain's first successful ascent was in 1939. Reaching the peak requires negotiating difficult rock and ice routes, a technically challenging ridge climb, frequent avalanches, and inclement weather.",
+            "id": "a8a076e2-99eb-4af1-9f31-c5b4f3f0b518",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": "1ee017fe-17bb-49c9-aa7f-a990e8f2b15e"
+        },
+        {
+            "name": "K12",
+            "height": 7428,
+            "prominence": 1978,
+            "range": "Saltoro Karakoram",
+            "coordinates": "35°17'45''N 77°01'20''E",
+            "first_ascent": 1974,
+            "description": "K12 is a harsh and remote peak lying in the Saltoro Karakoram range, on the border of India and Pakistan. It was first climbed in 1974. The difficult approach, combined with avalanche risk, lack of reliable rescue options, and rapidly changing weather patterns, makes it a formidable challenge for mountaineers.",
+            "id": "bf1c2a6a-322d-484d-97bc-a700d60e6a52",
+            "id_range": "b9c5bae4-a7a3-4246-8229-e48d68d160cf",
+            "country_codes": [
+                "IN",
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Yangra, Ganesh I",
+            "height": 7422,
+            "prominence": 2352,
+            "range": "Ganesh Himalaya",
+            "coordinates": "28°23'29''N 85°07'38''E",
+            "first_ascent": 1955,
+            "description": "Yangra or Ganesh I is located in the Ganesh Himalaya range. Shared between Nepal and China, the mountain is relatively less known and was first climbed in 1955. The ascent is challenging due to risk of avalanches and crevasses, and it's remote location also adds another layer of difficulty.",
+            "id": "bc789a20-000e-4503-9f42-dc5fa38f99f9",
+            "id_range": "a7e853cd-8ae4-4f00-a17b-299e62fb87ab",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Sia Kangri",
+            "height": 7422,
+            "prominence": 642,
+            "range": "Siachen Karakoram",
+            "coordinates": "35°39'48''N 76°45'42''E",
+            "first_ascent": 1934,
+            "description": "Sia Kangri stands in the Siachen Karakoram range, on the boundary of Pakistan and China. First climbed in 1934, the location's cold climate, glaciated landscapes, and technical climbing challenges make it a mountaineer's undertaking, demanding both physical strength and mental endurance.",
+            "id": "1b76ea70-ea67-4d20-8c3d-f074e9f7919a",
+            "id_range": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Momhil Sar",
+            "height": 7414,
+            "prominence": 907,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°19'04''N 75°02'11''E *",
+            "first_ascent": 1964,
+            "description": "Located in Pakistan's Hispar Karakoram range, Momhil Sar was first ascended in 1964. Its icy slopes, hidden crevasses, and the potential for blizzards and avalanches brings in notable risks for climbers. Despite these challenges, the beauty of the surrounding landscape is said to reward those who persevere.",
+            "id": "8d814128-46d5-49bf-ac59-90ae3735825a",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "760e6f69-1520-4fde-bdb5-2eb19fe58b8f"
+        },
+        {
+            "name": "Kabru N",
+            "height": 7412,
+            "prominence": 720,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°38'02''N 88°07'00''E",
+            "first_ascent": 1994,
+            "description": "Kabru N, situated in the Kangchenjunga Himalaya range, was first scaled in 1994. The last part of the climb is quite steep and the often adverse weather conditions make the ascent more difficult. The summit offers a breathtaking view of the neighboring mountains of the Himalayas.",
+            "id": "1fd53c1d-8821-4a8f-9f87-c34ec3f3120b",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "IN",
+                "NP"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Skil Brum",
+            "height": 7410,
+            "prominence": 1152,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°51'03''N 76°25'43''E",
+            "first_ascent": 1957,
+            "description": "Skil Brum, located in the Baltoro Karakoram range of Pakistan, was first ascended in 1957. The severe weather conditions, high hazards from the risk of avalanches and the technical difficulty of the climb, make it a daunting prospect for mountaineers. Climbers also have to adjust to the low oxygen levels at this high altitude.",
+            "id": "a10db08e-69e1-47f8-8831-4f918cdc67c8",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "9941ed5c-e137-402c-9c54-4495c3faedf4"
+        },
+        {
+            "name": "Haramosh Peak",
+            "height": 7409,
+            "prominence": 2277,
+            "range": "Rakaposhi-Haramosh Karakoram",
+            "coordinates": "35°50'24''N 74°53'51''E",
+            "first_ascent": 1958,
+            "description": "Haramosh Peak in the Rakaposhi-Haramosh Karakoram range of Pakistan, saw its first successful ascent in 1958. The route to the peak is complex and can be challenging due to the presence of steep icy slopes, crevasses and a high risk of avalanches. The altitude and remoteness of the peak also add to the expedition's difficulty.",
+            "id": "1282435c-83cd-4189-ad21-8f346dd60ec4",
+            "id_range": "f065c062-fd7c-4944-bc41-176fa2077136",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8c11abd7-11fa-4295-8015-7b2ec710459f"
+        },
+        {
+            "name": "Istor-o-Nal",
+            "height": 7403,
+            "prominence": 1043,
+            "range": "Hindu Kush",
+            "coordinates": "36°22'32''N 71°53'54''E",
+            "first_ascent": 1969,
+            "description": "Istor-o-Nal is located in the Hindu Kush range, in Pakistan. First conquered in 1969, the mountain has some moderately difficult sections and climatic conditions that test climbers' abilities. The risk of avalanches and icefalls, in combination with the difficulty in accessing the mountain, makes any ascent a true test.",
+            "id": "1eed6bed-eadc-415b-b7ac-f867e0b0a403",
+            "id_range": "2890a949-b29e-4c5a-b9b5-f16ee1614023",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "2a048e30-b5c2-45cc-9204-a3d35deafe7e"
+        },
+        {
+            "name": "Ghent Kangri",
+            "height": 7401,
+            "prominence": 1493,
+            "range": "Saltoro Karakoram",
+            "coordinates": "35°31'04''N 76°48'02''E",
+            "first_ascent": 1961,
+            "description": "Ghent Kangri, located in the Saltoro Karakoram range, was first ascended in 1961. The geographical and political sensitivity of the peak due to its proximity to the LOC (Line of Control) between India and Pakistan makes the access to the peak complicated. Apart from this, treacherous terrain, avalanches, and harsh climatic conditions are other challenges for climbers.",
+            "id": "0162a4df-dd50-4c1e-b9a5-18a0c384d7a3",
+            "id_range": "b9c5bae4-a7a3-4246-8229-e48d68d160cf",
+            "country_codes": [
+                "IN",
+                "PK"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Ultar",
+            "height": 7388,
+            "prominence": 688,
+            "range": "Batura Karakoram",
+            "coordinates": "36°23'27''N 74°43'00''E",
+            "first_ascent": 1996,
+            "description": "Ultar in the Batura Karakoram range is one of the most technically challenging mountains to climb. It was first ascended in 1996. The mountain has a reputation for bad weather, and combined with its steep snowy slopes and a high risk of avalanches, it demands strong technical mountaineering skills and high physical fitness from those who attempt it.",
+            "id": "bfde2239-05bd-4e93-8c13-50ec384f36bb",
+            "id_range": "4d5efa7d-e8c9-424b-b56d-41827bb17fbe",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "e129ca4d-4863-41c6-8dd7-17eaaf00094a"
+        },
+        {
+            "name": "Rimo I",
+            "height": 7385,
+            "prominence": 1428,
+            "range": "Rimo Karakoram",
+            "coordinates": "35°21'18''N 77°22'08''E",
+            "first_ascent": 1988,
+            "description": "First ascended in 1988, Rimo I of the Rimo Karakoram range is one of the major mountains in India. Climbers will face a challenging task due to its significant prominence of 1428 meters. It's positioned at an altitude of 7385 meters and can be located through coordinates 35°21'18''N 77°22'08''E. Its parent mountain is Teram Kangri I. Rimo I provides a worthy exploration for highly experienced mountaineers.",
+            "id": "4ddc7ea8-d5bc-49a8-bb80-60318640d744",
+            "id_range": "1a9c1d51-fdb5-4e9b-adbb-aa8fbba1f23d",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": "f96799f4-d9be-4472-97c2-4fb43d618faf"
+        },
+        {
+            "name": "Churen Himal",
+            "height": 7385,
+            "prominence": 650,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°44'05''N 83°13'03''E",
+            "first_ascent": 1970,
+            "description": "Churen Himal is part of the Dhaulagiri Himalayan range, standing at a height of 7385 meters. The mountain is known for its small prominence of 650 meters, making it one of the harder mountains to conquer even for experienced climbers. Churen Himal was first climbed in 1970. This mountain has the coordinates 28°44'05''N 83°13'03''E and its parent mountain is Dhaulagiri IV.",
+            "id": "7321996d-ee83-4b05-8795-8159b3b02caf",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "114d5bdf-76be-4631-b051-d0c7b4fdc93b"
+        },
+        {
+            "name": "Teram Kangri III",
+            "height": 7382,
+            "prominence": 520,
+            "range": "Siachen Karakoram",
+            "coordinates": "35°35'59''N 77°02'53''E",
+            "first_ascent": 1979,
+            "description": "Teram Kangri III is part of the Siachen Karakoram range and stands at a height of 7382 meters. It has a low prominence of 520 meters which provides a strenuous challenge for climbers. Located with coordinates 35°35'59''N 77°02'53''E, this mountain was first ascended in 1979. It shares its parent mountain, Teram Kangri I, with two other mountains of the same range and spans across the countries of India and China.",
+            "id": "d40ad249-6533-42aa-83c4-e7b04d0c83e8",
+            "id_range": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": "f96799f4-d9be-4472-97c2-4fb43d618faf"
+        },
+        {
+            "name": "Sherpi Kangri",
+            "height": 7380,
+            "prominence": 132,
+            "range": "Saltoro Karakoram",
+            "coordinates": "35°27'58''N 76°46'53''E *",
+            "first_ascent": 1976,
+            "description": "Sherpi Kangri, located in the Saltoro Karakoram range, was first ascended in 1976. This mountain straddles the border of India and Pakistan. Its challenging terrain includes difficult ice and rock slopes as well as the threat of avalanches. This, combined with the high altitude and extreme weather conditions, makes it a formidable climb. Despite these challenges, the summit offers panoramic views of the Himalayas.",
+            "id": "0b74e62e-c669-406d-aa0d-18bf9d5ea7de",
+            "id_range": "b9c5bae4-a7a3-4246-8229-e48d68d160cf",
+            "country_codes": [
+                "IN",
+                "PK"
+            ],
+            "id_parent": "0162a4df-dd50-4c1e-b9a5-18a0c384d7a3"
+        },
+        {
+            "name": "Labuche Kang",
+            "height": 7367,
+            "prominence": 1957,
+            "range": "Labuche Himalaya",
+            "coordinates": "28°18'15''N 86°21'03''E",
+            "first_ascent": 1987,
+            "description": "Labuche Kang, located in the Tibetan part of the Himalayas, was first climbed in 1987. It is one of the highest mountains in the world, with a unique challenge in obtaining the necessary permits for climbing due to its location in China. The mountain's treacherous ice slopes and freezing temperatures make it a challenging climb. The summit offers a breathtaking panoramic view of multiple peaks in the Himalayas. The climb, however, is well worth the effort.",
+            "id": "8e185a73-e1fb-41f5-918d-d9326aa31fb1",
+            "id_range": "443abb82-3b0e-4a12-9cc9-28818a686b7f",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Kirat Chuli",
+            "height": 7362,
+            "prominence": 1168,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°47'16''N 88°11'43''E",
+            "first_ascent": 1939,
+            "description": "Kirat Chuli, also known as Tent Peak, is a mountain straddling the border of Nepal and India. It was first climbed in 1939. The journey to the top includes navigating through dense forest, icefalls, and extreme weather conditions. Despite the challenges, it's one of the most climbed peaks in the region. The stunning vista at the top includes three of the five highest mountains in the world.",
+            "id": "3e9aa142-8760-49ad-a6b8-1e250cc6ac7d",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "IN",
+                "NP"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Abi Gamin",
+            "height": 7355,
+            "prominence": 217,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°55'57''N 79°36'09''E",
+            "first_ascent": 1950,
+            "description": "Abi Gamin is one of the peaks in the cluster of ‘Kamet’ mountains. First ascended in 1950, it is located in the Garhwal Himalayas on the border of India and China. The climb to the summit involves dealing with treacherous crevasses, severe weather, and high-wind conditions. Its relatively low prominence makes it a bit less challenging compared to other mountains of similar heights. The breathtaking view from the top makes the climb worth it.",
+            "id": "fc2b91ce-d26e-459a-aab8-2bec509489a5",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": "3764b6da-49a0-466d-a479-aec088a02510"
+        },
+        {
+            "name": "Gimmigela Chuli, The Twins",
+            "height": 7350,
+            "prominence": 432,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°44'27''N 88°09'31''E",
+            "first_ascent": 1994,
+            "description": "Gimmigela Chuli, also known as 'The Twins', is part of the Kangchenjunga Himalaya range. It was first climbed in 1994. The climb is considered challenging due to steep ice slopes as well as heavy snowfall. Additionally, its remote location and associated logistical challenges add to the difficulty of the ascent. The peak provides climbers with a stunning view of the Kangchenjunga ranges.",
+            "id": "76c8f1b8-5b0c-4d30-af23-17fc864ccf3c",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "IN",
+                "NP"
+            ],
+            "id_parent": "07cd1d60-81c4-4fec-a77b-71a2fe5d35bb"
+        },
+        {
+            "name": "Nangpai Gosum",
+            "height": 7350,
+            "prominence": 427,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°04'24''N 86°36'51''E",
+            "first_ascent": 1986,
+            "id": "e3c546ae-1a3b-4c74-9b77-1d10694c2a7d",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Nangpai Gosum",
+            "height": 7350,
+            "prominence": 427,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°04'24''N 86°36'51''E",
+            "first_ascent": 1986,
+            "description": "Nangpai Gosum was first ascended in 1986. This mountain is located in the Mahalangur Himalaya range, straddling the border between Nepal and China. With a height of 7350 meters, it poses a serious challenge to those willing to climb it. One challenge climbers face when approaching this mountain is its relatively low prominence of just 427 meters, making it a daunting task to climb from its base to its peak.",
+            "id": "b44f98b9-6b2e-4fc9-abe9-1c92448ecbee",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "Saraghrar",
+            "height": 7349,
+            "prominence": 1979,
+            "range": "Hindu Kush",
+            "coordinates": "36°32'51''N 72°06'54''E",
+            "first_ascent": 1959,
+            "description": "Saraghrar, located in the Hindu Kush range in Pakistan, was first climbed in 1959. It stands tall at 7349 meters, presenting a formidable challenge. This mountain has a high prominence of 1979 meters, which makes the climb even more strenuous. One of the main challenges mountaineers face in approaching this mountain is its incredibly rugged terrain and the harsh weather conditions.",
+            "id": "d3e84c8c-36e1-4011-be31-9855636c8f14",
+            "id_range": "2890a949-b29e-4c5a-b9b5-f16ee1614023",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "2a048e30-b5c2-45cc-9204-a3d35deafe7e"
+        },
+        {
+            "name": "Talung",
+            "height": 7349,
+            "prominence": 366,
+            "range": "Kangchenjunga Himalaya",
+            "coordinates": "27°39'18''N 88°07'51''E *",
+            "first_ascent": 1964,
+            "description": "Talung, part of the Kangchenjunga Himalaya range, was first ascended in 1964. It stands on the border of Nepal and India, reaching a height of 7349 meters. Despite its formidable height, Talung has a relatively low prominence of 366 meters. This, along with treacherous weather conditions and challenging terrain, can make the approach to this mountain a daunting prospect for mountaineers.",
+            "id": "83f016cc-1e43-4a8c-95ef-6ebd47d13673",
+            "id_range": "f7a8a2e6-bf63-455f-af45-db3e25eccd13",
+            "country_codes": [
+                "NP",
+                "IN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Jomolhari",
+            "height": 7326,
+            "prominence": 2341,
+            "range": "Jomolhari Himalaya",
+            "coordinates": "27°49'36''N 89°16'04''E *",
+            "first_ascent": 1937,
+            "description": "Jomolhari, first ascended in 1937, is situated in the Jomolhari Himalaya range on the border of Bhutan and China. Standing at 7326 meters, it is a serious undertaking for any climber. With a prominence of 2341 meters, the climb is particularly gruelling. Approaching Jomolhari involves navigating difficult terrain and being prepared to face unpredictable weather conditions.",
+            "id": "68304b4a-7b5c-45af-9335-5c888875f7e8",
+            "id_range": "17b9c3d3-ef78-4d0d-8646-b5d5b22622af",
+            "country_codes": [
+                "BT",
+                "CN"
+            ],
+            "id_parent": "100c2093-5d8d-407c-98a1-fb56037e847a"
+        },
+        {
+            "name": "Chamlang",
+            "height": 7321,
+            "prominence": 1241,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "27°46'30''N 86°58'47''E",
+            "first_ascent": 1961,
+            "description": "Chamlang, located in Nepal, was first climbed in 1961. It is part of the Mahalangur Himalaya range, reaching an impressive 7321 meters in height. The mountain has a prominence of 1241 meters, adding to the difficulty of the climb. One of the main challenges when approaching this mountain is the high altitude, which requires climbers to be fully acclimatized.",
+            "id": "42bbb8a8-9e16-45bb-b848-e8b45e38bc37",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "0279ff36-bb0a-4774-be62-b9a3691059db"
+        },
+        {
+            "name": "Chongtar",
+            "height": 7315,
+            "prominence": 1295,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°54'55''N 76°25'45''E",
+            "first_ascent": 1994,
+            "description": "Chongtar is known for its wild landscape and challenging terrains. The first ascent was made by a Japanese team in 1994. The fact that it's relatively isolated presents a significant obstacle for climbers. Harsh weather often makes the climb much more challenging, pushing climbers to their limits. Careful planning and good physical conditioning are therefore essential for a successful climb.",
+            "id": "0efd4bc1-8afb-4565-b81f-e59112c6b37b",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "a10db08e-69e1-47f8-8831-4f918cdc67c8"
+        },
+        {
+            "name": "Baltoro Kangri",
+            "height": 7312,
+            "prominence": 114,
+            "range": "Masherbrum Karakoram",
+            "coordinates": "35°38'21''N 76°40'24''E",
+            "first_ascent": 1963,
+            "description": "The Baltoro Kangri mountain, also known as the 'Golden Throne', is part of the Karakoram range. The first ascent was made in 1963 by a Japanese team. The low prominence of the mountain makes it particularly challenging as there isn't a clear path to the summit. It's also known for fierce winds and very cold weather conditions. Prior acclimatization and careful planning are necessary.",
+            "id": "479d5912-9d1d-40fa-b6f1-f4f951ae0fd5",
+            "id_range": "6230fc9a-0700-43df-bac7-5095f3189fb8",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "db611f2d-3311-40c3-867e-9c6c36072b24"
+        },
+        {
+            "name": "Siguang Ri",
+            "height": 7309,
+            "prominence": 669,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°08'50''N 86°41'06''E",
+            "first_ascent": 1989,
+            "description": "Located in the Mahalangur Himalaya range, Siguang Ri was first climbed in 1989 by a Japanese team. The mountain is known for its icy slopes and steep ascends. One major challenge climbers face is the unpredictable and severe weather changes. Due to these conditions, it's crucial to be well-equipped and physically fit. One should also consider obtaining local guidance to safely navigate the mountain's terrains.",
+            "id": "4e7175fd-94ed-44c2-84af-ad660a338561",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "c56a65b8-2832-46ff-9a6e-4da0341ef72d"
+        },
+        {
+            "name": "The Crown, Huang Guan Shan",
+            "height": 7295,
+            "prominence": 1919,
+            "range": "Yengisogat Karakoram",
+            "coordinates": "36°06'24''N 76°12'21''E",
+            "first_ascent": 1993,
+            "description": "Regarded as one of the most challenging mountains to climb, The Crown was first summitted by a Chinese team in 1993. This mountain's climbing challenges include sub-zero temperatures, avalanches, and highly technical rock and ice climbing. The high prominence also means a long arduous climb, requiring endurance and skill. It is rarely attempted due to its difficult approach and objectif danger on the route.",
+            "id": "31bff87d-381c-4122-a269-b656977bfe9a",
+            "id_range": "92bef519-46d5-4056-bc46-e23696128cce",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Gyala Peri",
+            "height": 7294,
+            "prominence": 2942,
+            "range": "Assam Himalaya",
+            "coordinates": "29°48'52''N 94°58'07''E",
+            "first_ascent": 1986,
+            "description": "Gyala Peri is a prominent peak in the Assam Himalaya range. The mountain presents a mixture of challenges, including steep, icy slopes, strong winds and extreme coldness. Additionally, the remoteness of the mountain presents logistical challenges. The first climb was accomplished by a Japanese team in 1986. Climbers who take on Gyala Peri generally possess significant skills and experience in high altitude mountaineering.",
+            "id": "e677a3d7-7463-4caf-945b-b7a989bb9f22",
+            "id_range": "bde519fd-3d8f-493f-ad71-c16f43c874cd",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Porong Ri",
+            "height": 7292,
+            "prominence": 512,
+            "range": "Langtang Himalaya",
+            "coordinates": "28°23'22''N 85°43'12''E",
+            "first_ascent": 1982,
+            "description": "Porong Ri is a formidable peak in Langtang Himalaya which was first ascended in 1982. Despite its relatively smaller prominence, its remote location and severe weather make the climb challenging. Due to its high altitude and treacherous terrain, mountaineers require advanced skills and equipment to summit. Parts of the mountain are steep ice and rock faces, requiring technical ability. The mountain is under Chinese authority and subject to its regulations.",
+            "id": "84fc1f2d-287d-4015-bae0-2b3c89df9d4b",
+            "id_range": "b42dc716-9e76-4eaa-a20e-a7f966ffb9a3",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Baintha Brakk, The Ogre",
+            "height": 7285,
+            "prominence": 1891,
+            "range": "Panmah Karakoram",
+            "coordinates": "35°56'51''N 75°45'12''E *",
+            "first_ascent": 1977,
+            "description": "Baintha Brakk, or The Ogre, is a daunting peak in the Panmah Karakoram range in Pakistan. First ascended in 1977, but known for its exceptional difficulty until today, This mountain guarantees sustained technical climbing with tricky sections of steep ice and rock. Furthermore, bouts of severe weather can amplify the challenges of the ascent. Baintha Brakk is not for beginners due to its technical and physical demands.",
+            "id": "01759f4e-58d0-410b-9c9d-46b4da05fabb",
+            "id_range": "c065154e-0fdf-4331-950e-ec6d827663fe",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "fb31ea7f-0abc-4747-8863-2f8ce5c5a1e3"
+        },
+        {
+            "name": "Yutmaru Sar",
+            "height": 7283,
+            "prominence": 680,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°13'35''N 75°22'02''E",
+            "first_ascent": 1980,
+            "description": "Yutmaru Sar is a high-altitude game with a considerable amount of technical climbing in the Hispar Karakoram range in Pakistan. Achieving its summit can be demanding due to the height, weather conditions and remote location. Notably accomplished first in 1980, the peak's altitude, coupled with a significant prominence, presents mountaineers with a difficult challenge. The mountain demands high technical proficiency from climbers. Its severe conditions require acclimatization as well.",
+            "id": "4953520c-93e0-4213-9535-762bb2bc6410",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "1b8e0d53-a104-40bf-b122-c35468913410"
+        },
+        {
+            "name": "K6, Baltistan Peak",
+            "height": 7282,
+            "prominence": 1962,
+            "range": "Masherbrum Karakoram",
+            "coordinates": "35°25'06''N 76°33'06''E",
+            "first_ascent": 1970,
+            "description": "K6, also known as Baltistan Peak, is a spectacular pinnacle in the Masherbrum Karakoram range. The mountain was first successfully ascended in 1970. Many seasoned climbers attracted by the combination of its height and prominence are challenged by its steep ice and rock sections. Baltistan Peak's harsh weather conditions and remote location add to the difficulty of the climb. Resilience and technical proficiency are crucial for a successful ascent.",
+            "id": "43795bd4-8b8a-41b1-a7e8-b1fcb3ff51ce",
+            "id_range": "6230fc9a-0700-43df-bac7-5095f3189fb8",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "db611f2d-3311-40c3-867e-9c6c36072b24"
+        },
+        {
+            "name": "Kangpenqing",
+            "height": 7281,
+            "prominence": 1345,
+            "range": "Baiku Himalaya",
+            "coordinates": "28°33'03''N 85°32'44''E",
+            "first_ascent": 1982,
+            "description": "Kangpenqing is a peak located in Baiku Himalaya range in China, first ascended in 1982. The mountain boasts a soaring height and thorny route due to its considerable prominence. Reaching the summit is tactically challenging due to rock and ice surfaces, requiring technical skills. High altitude, remote location, and unpredictable weather further increase the difficulty. Permission is required from the Chinese government to climb.",
+            "id": "e8c41f61-5434-40a0-9eaa-a329dcdd782a",
+            "id_range": "db93a937-559d-4b62-a215-334baf6e822a",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Muztagh Tower",
+            "height": 7276,
+            "prominence": 171,
+            "range": "Baltoro Karakoram",
+            "coordinates": "35°49'40''N 76°21'40''E",
+            "first_ascent": 1956,
+            "description": "Muztagh Tower is an iconic peak in the Baltoro Karakoram range shared by China and Pakistan. First climbed successfully in 1956, it is recognized for its distinct tower-like shape. Despite its relatively lesser prominence, the challenge lies in navigating its steep rock and ice ridges. In addition to brutal weather conditions, climbers must also negotiate regulatory permissions from both countries for this summit. Muztagh Tower beckons experienced mountaineers with technical proficiency.",
+            "id": "2eae0749-cdb5-4354-9330-3489d3362645",
+            "id_range": "f1b8f2e9-4c58-4148-92e9-c065186c6e6e",
+            "country_codes": [
+                "PK",
+                "CN"
+            ],
+            "id_parent": "a10db08e-69e1-47f8-8831-4f918cdc67c8"
+        },
+        {
+            "name": "Mana Peak",
+            "height": 7272,
+            "prominence": 732,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°52'50''N 79°36'55''E",
+            "first_ascent": 1937,
+            "description": "Mana Peak, first ascended in 1937, is situated in the Garhwal Himalaya range of India. The climb is challenging due to its steep slopes and unpredictable weather. Mountaineers must be prepared for technical ice and rock climbing. The peak offers stunning views of surrounding mountains, including the prominent Kamet. Due to its location, climbers often need special permits to access the region.",
+            "id": "8ac21992-02c6-4ddc-acf0-57b236ffa9e8",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": "3764b6da-49a0-466d-a479-aec088a02510"
+        },
+        {
+            "name": "Dhaulagiri VI",
+            "height": 7268,
+            "prominence": 488,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°42'31''N 83°16'27''E",
+            "first_ascent": 1970,
+            "description": "Dhaulagiri VI, part of the Dhaulagiri Himalaya, was first ascended in 1970. The ascent is known for its extreme weather conditions and technical challenges. Climbers must navigate crevasses, icefalls, and avalanches. The remote location requires a long approach trek, adding to the expedition's difficulty. Despite these challenges, it offers breathtaking views of the Dhaulagiri massif.",
+            "id": "cc5e6493-22e9-42ac-ace3-96ba1bcab52e",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "114d5bdf-76be-4631-b051-d0c7b4fdc93b"
+        },
+        {
+            "name": "Diran",
+            "height": 7266,
+            "prominence": 1329,
+            "range": "Rakaposhi-Haramosh Karakoram",
+            "coordinates": "36°07'13''N 74°39'42''E",
+            "first_ascent": 1968,
+            "description": "Diran, first climbed in 1968, is located in the Rakaposhi-Haramosh Karakoram range of Pakistan. Known for its beauty, it is also notoriously dangerous due to frequent avalanches. The climb requires advanced alpine skills and acclimatization to high altitudes. The summit offers panoramic views of the Karakoram peaks. Climbers should be cautious of weather changes and prepare for a rigorous expedition.",
+            "id": "6ebd2699-91c4-4fa5-8773-dcc3e7768757",
+            "id_range": "f065c062-fd7c-4944-bc41-176fa2077136",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8c11abd7-11fa-4295-8015-7b2ec710459f"
+        },
+        {
+            "name": "Labuche Kang III",
+            "height": 7250,
+            "prominence": 570,
+            "range": "Labuche Himalaya",
+            "coordinates": "28°18'05''N 86°23'02''E",
+            "first_ascent": 0,
+            "description": "Labuche Kang III is part of the Labuche Himalaya range in China. As of now, it remains unclimbed, presenting a significant challenge to mountaineers. The peak is characterized by its remote location and severe weather conditions. Climbers attempting this peak will face technical ice and rock routes. The region is less frequented, requiring thorough preparation and logistical planning.",
+            "id": "973e744b-4ab8-4dc2-a1c0-1cc4dbe34918",
+            "id_range": "443abb82-3b0e-4a12-9cc9-28818a686b7f",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Putha Hiunchuli",
+            "height": 7246,
+            "prominence": 1151,
+            "range": "Dhaulagiri Himalaya",
+            "coordinates": "28°44'52''N 83°08'46''E",
+            "first_ascent": 1954,
+            "description": "Putha Hiunchuli, first ascended in 1954, is located in the Dhaulagiri Himalaya range of Nepal. The mountain offers a challenging climb with technical ice and snow routes. Climbers must be prepared for severe weather and high-altitude conditions. The peak provides magnificent views of the surrounding Dhaulagiri range. It requires a long trek to reach the base camp, adding to the expedition's difficulty.",
+            "id": "983e8d49-5060-47df-a47d-877bcbaf6630",
+            "id_range": "fec6132a-8de5-4331-8a4f-18063728110b",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "7321996d-ee83-4b05-8795-8159b3b02caf"
+        },
+        {
+            "name": "Apsarasas Kangri",
+            "height": 7245,
+            "prominence": 607,
+            "range": "Siachen Karakoram",
+            "coordinates": "35°32'19''N 77°08'55''E",
+            "first_ascent": 1976,
+            "description": "Apsarasas Kangri, first climbed in 1976, lies in the Siachen Karakoram range on the border between India and China. The mountain's remote location and severe weather conditions pose significant challenges to climbers. The ascent involves navigating through glaciers and icefalls. The region's political sensitivity requires special permits for access. Climbers are rewarded with spectacular views of the Karakoram range.",
+            "id": "702c6963-66eb-4585-aab8-3dab6c9a72c6",
+            "id_range": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": "f96799f4-d9be-4472-97c2-4fb43d618faf"
+        },
+        {
+            "name": "Mukut Parbat",
+            "height": 7242,
+            "prominence": 683,
+            "range": "Garhwal Himalaya",
+            "coordinates": "30°56'57''N 79°34'12''E",
+            "first_ascent": 1951,
+            "description": "Mukut Parbat, first ascended in 1951, is part of the Garhwal Himalaya range on the border between India and China. The climb features technical rock and ice sections. Mountaineers face challenges such as unpredictable weather and difficult terrain. The peak offers stunning views of the Kamet massif and surrounding mountains. Access to the region often requires special permits and thorough preparation.",
+            "id": "e19a9783-f6bc-47cb-8cb0-b03ecabdd8b5",
+            "id_range": "f4c5adc2-8813-4481-9465-b07eedbfecca",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": "3764b6da-49a0-466d-a479-aec088a02510"
+        },
+        {
+            "name": "Rimo III",
+            "height": 7233,
+            "prominence": 613,
+            "range": "Rimo Karakoram",
+            "coordinates": "35°22'31''N 77°21'42''E",
+            "first_ascent": 1985,
+            "description": "Rimo III, first climbed in 1985, is located in the Rimo Karakoram range of India. The ascent is challenging due to the peak's remote location and severe weather. Climbers must navigate glaciers and technical ice and rock routes. The mountain offers breathtaking views of the Karakoram range. Access to the region often requires special permits due to its proximity to sensitive border areas.",
+            "id": "8ebbec3c-a8c2-4f7a-95b6-42d0cbc00b38",
+            "id_range": "1a9c1d51-fdb5-4e9b-adbb-aa8fbba1f23d",
+            "country_codes": [
+                "IN"
+            ],
+            "id_parent": "4ddc7ea8-d5bc-49a8-bb80-60318640d744"
+        },
+        {
+            "name": "Langtang Lirung",
+            "height": 7227,
+            "prominence": 1534,
+            "range": "Langtang Himalaya",
+            "coordinates": "28°15'22''N 85°31'01''E",
+            "first_ascent": 1978,
+            "description": "Langtang Lirung, first ascended in 1978, is the highest peak in the Langtang Himalaya range of Nepal. The climb is known for its technical difficulty, with steep ice and rock sections. Mountaineers must be prepared for harsh weather conditions and high-altitude challenges. The summit offers spectacular views of the Langtang region and the greater Himalayas. The area is accessible by a scenic trek through the Langtang Valley.",
+            "id": "140cb54e-d3e2-45d0-8bef-778119147198",
+            "id_range": "b42dc716-9e76-4eaa-a20e-a7f966ffb9a3",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Karjiang",
+            "height": 7221,
+            "prominence": 895,
+            "range": "Kula Kangri Himalaya",
+            "coordinates": "28°15'27''N 90°38'49''E",
+            "first_ascent": 0,
+            "description": "Karjiang, located in the Kula Kangri Himalaya range of China, remains unclimbed. The peak presents significant challenges due to its remote location and severe weather conditions. Climbers attempting Karjiang must navigate complex ice and rock routes. The mountain's isolation requires extensive logistical planning and preparation. The region is less frequented, offering a pristine climbing environment.",
+            "id": "53205e43-a411-48dc-8226-d27a516fdfb1",
+            "id_range": "6b35a7b8-818e-4c93-a333-53912022ec12",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "3cf3fa9b-8c89-4a14-abed-31ad5db6b6b1"
+        },
+        {
+            "name": "Annapurna Dakshin (Annapurna South)",
+            "height": 7219,
+            "prominence": 769,
+            "range": "Annapurna Himalaya",
+            "coordinates": "28°31'06''N 83°48'22''E",
+            "first_ascent": 1964,
+            "description": "Annapurna Dakshin, also known as Annapurna South, was first climbed in 1964. Located in the Annapurna Himalaya range of Nepal, the peak is known for its technical difficulty. Climbers must be prepared for steep ice and rock sections. The mountain offers stunning views of the Annapurna massif and surrounding peaks. The approach trek through the Annapurna Sanctuary adds to the expedition's allure.",
+            "id": "0f213942-c657-470f-8eb2-82c51048c143",
+            "id_range": "7d1415d6-f981-46ae-a390-2ec531fdebce",
+            "country_codes": [
+                "NP"
+            ],
+            "id_parent": ""
+        },
+        {
+            "name": "Khartaphu",
+            "height": 7213,
+            "prominence": 712,
+            "range": "Mahalangur Himalaya",
+            "coordinates": "28°03'49''N 86°58'39''E",
+            "first_ascent": 1935,
+            "description": "Khartaphu, first ascended in 1935, is part of the Mahalangur Himalaya range of China. The climb is known for its technical challenges and severe weather conditions. Mountaineers must navigate glaciers and steep ice routes. The peak offers breathtaking views of Mount Everest and surrounding mountains. Access to the region requires careful planning and acclimatization to high altitudes.",
+            "id": "542bb2a2-5213-491e-9059-2f80877845e4",
+            "id_range": "1f400799-a072-4704-9188-217f89962505",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "a29bf6b1-0478-43ed-ad38-862f871995cf"
+        },
+        {
+            "name": "Tongshanjiabu",
+            "height": 7207,
+            "prominence": 1757,
+            "range": "Lunana Himalaya",
+            "coordinates": "28°11'12''N 89°57'27''E",
+            "first_ascent": 0,
+            "description": "Tongshanjiabu, located in the Lunana Himalaya range on the border between Bhutan and China, remains unclimbed. The mountain's remote location and severe weather conditions present significant challenges. Climbers attempting this peak must be prepared for technical ice and rock routes. The region's isolation requires extensive logistical planning and preparation. Tongshanjiabu offers stunning, unspoiled views of the Himalayas.",
+            "id": "4ba60d18-561e-41ea-9269-d369e562f610",
+            "id_range": "96c0d021-6e11-44e8-92ef-12442bded9b4",
+            "country_codes": [
+                "BT",
+                "CN"
+            ],
+            "id_parent": "100c2093-5d8d-407c-98a1-fb56037e847a"
+        },
+        {
+            "name": "Malangutti Sar",
+            "height": 7207,
+            "prominence": 507,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°21'47''N 75°08'57''E",
+            "first_ascent": 1985,
+            "description": "Malangutti Sar, first climbed in 1985, is located in the Hispar Karakoram range of Pakistan. The ascent is known for its technical difficulty and severe weather conditions. Climbers must navigate glaciers and complex ice routes. The peak offers breathtaking views of the Karakoram range. The remote location requires careful logistical planning and preparation for a successful expedition.",
+            "id": "e40d3871-1247-4546-94b2-67beaf291b3a",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "cb1f586b-3075-42ed-9c3f-5ac18b50f520"
+        },
+        {
+            "name": "Noijin Kangsang",
+            "height": 7206,
+            "prominence": 216,
+            "range": "Nagarze Himalaya",
+            "coordinates": "28°56'48''N 90°10'42''E",
+            "first_ascent": 1986,
+            "description": "Noijin Kangsang, first ascended in 1986, is part of the Nagarze Himalaya range in China. The climb is known for its technical ice and rock routes. Climbers must be prepared for harsh weather conditions and high-altitude challenges. The summit offers spectacular views of the surrounding peaks and valleys. The region is accessible by a scenic approach trek, adding to the expedition's appeal.",
+            "id": "fe75af3b-de42-49da-a5eb-38ddf1471824",
+            "id_range": "bcaf994c-37e4-474e-b1fd-b45843bae26d",
+            "country_codes": [
+                "CN"
+            ],
+            "id_parent": "100c2093-5d8d-407c-98a1-fb56037e847a"
+        },
+        {
+            "name": "Langtang Ri",
+            "height": 7205,
+            "prominence": 665,
+            "range": "Langtang Himalaya",
+            "coordinates": "28°22'53''N 85°41'01''E",
+            "first_ascent": 1981,
+            "description": "Langtang Ri, first climbed in 1981, is located in the Langtang Himalaya range on the border between Nepal and China. The ascent involves navigating steep ice and rock routes. Climbers must be prepared for severe weather conditions and high-altitude challenges. The peak offers stunning views of the Langtang region and the greater Himalayas. The area is accessible by a scenic trek through the Langtang Valley.",
+            "id": "81e62df4-1080-4ce8-b39f-594580629096",
+            "id_range": "b42dc716-9e76-4eaa-a20e-a7f966ffb9a3",
+            "country_codes": [
+                "NP",
+                "CN"
+            ],
+            "id_parent": "0df7d88e-68d8-4c1c-b1bb-2a29847d5950"
+        },
+        {
+            "name": "Kangphu Kang, Shimokangri",
+            "height": 7204,
+            "prominence": 1244,
+            "range": "Lunana Himalaya",
+            "coordinates": "28°09'24''N 90°04'15''E",
+            "first_ascent": 2002,
+            "description": "Kangphu Kang, also known as Shimokangri, was first climbed in 2002. Located in the Lunana Himalaya range on the border between Bhutan and China, the peak presents significant challenges due to its remote location and technical routes. Climbers must be prepared for severe weather and high-altitude conditions. The summit offers breathtaking views of the surrounding mountains. The region's isolation requires thorough preparation and logistical planning.",
+            "id": "03d374d5-5e41-4d2e-9fa3-f18d0a3376f3",
+            "id_range": "96c0d021-6e11-44e8-92ef-12442bded9b4",
+            "country_codes": [
+                "BT",
+                "CN"
+            ],
+            "id_parent": "4ba60d18-561e-41ea-9269-d369e562f610"
+        },
+        {
+            "name": "Singhi Kangri",
+            "height": 7202,
+            "prominence": 730,
+            "range": "Siachen Karakoram",
+            "coordinates": "35°35'59''N 76°59'01''E",
+            "first_ascent": 1976,
+            "description": "Singhi Kangri, first ascended in 1976, lies in the Siachen Karakoram range on the border between India and China. The climb is known for its technical difficulty and severe weather conditions. Mountaineers must navigate glaciers and steep ice routes. The peak offers breathtaking views of the Karakoram range. Access to the region often requires special permits due to its proximity to sensitive border areas.",
+            "id": "37fa73c3-23c8-4acc-8d5d-a4a4fcbcba25",
+            "id_range": "e14847c4-6d77-4c37-a0cb-8c2c2d597070",
+            "country_codes": [
+                "IN",
+                "CN"
+            ],
+            "id_parent": "d40ad249-6533-42aa-83c4-e7b04d0c83e8"
+        },
+        {
+            "name": "Lupghar Sar",
+            "height": 7200,
+            "prominence": 730,
+            "range": "Hispar Karakoram",
+            "coordinates": "36°21'01''N 75°02'13''E *",
+            "first_ascent": 1979,
+            "description": "Lupghar Sar, first climbed in 1979, is located in the Hispar Karakoram range of Pakistan. The ascent involves technical ice and rock routes, with challenges posed by severe weather conditions. Climbers must be prepared for high-altitude conditions and navigate complex glacial terrain. The peak offers stunning views of the Karakoram range. The remote location requires careful logistical planning and preparation.",
+            "id": "854d7de4-b698-4692-88fb-4a69da84d2ec",
+            "id_range": "d4f857d1-c500-4cf5-a32d-c9911c558c21",
+            "country_codes": [
+                "PK"
+            ],
+            "id_parent": "8d814128-46d5-49bf-ac59-90ae3735825a"
+        }
+    ]
+}

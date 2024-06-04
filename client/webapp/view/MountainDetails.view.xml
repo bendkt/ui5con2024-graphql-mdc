@@ -1,0 +1,63 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.uxap"
+    xmlns:layout="sap.ui.layout"
+    xmlns:core="sap.ui.core"
+    xmlns:f="sap.ui.layout.form"
+    xmlns:m="sap.m"
+    xmlns:control="mdc.graphql.control" controllerName="mdc.graphql.controller.MountainDetails">
+    <ObjectPageLayout id="ObjectPageLayout" showTitleInHeaderContent="true" upperCaseAnchorBar="false" showFooter="true">
+        <headerTitle>
+            <ObjectPageHeader objectImageURI="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg" objectTitle="{apollo>/mountain/name}" objectImageShape="Circle" objectSubtitle="{apollo>/mountain/range/name}" isObjectTitleAlwaysVisible="false" isObjectSubtitleAlwaysVisible="false">
+                <actions>
+                    <m:Button text="Edit" type="Emphasized" press=".onEditButtonPress" visible="{=!${input>/editMode}}"/>
+                </actions>
+                <breadcrumbs>
+                    <m:Breadcrumbs id="breadcrumbs" currentLocationText="{apollo>/mountain/name}">
+                        <m:Link href="#/" text="Mountains"/>
+                        <m:Link href="#/?range={apollo>/mountain/range/id}" text="{apollo>/mountain/range/name}"/>
+                    </m:Breadcrumbs>
+                </breadcrumbs>
+            </ObjectPageHeader>
+        </headerTitle>
+        <headerContent>
+            <layout:VerticalLayout>
+                <m:ObjectStatus title="Parent Mountain" text="{apollo>/mountain/parent_mountain/name}"/>
+                <m:ObjectStatus title="Countries" text="{apollo>/mountain/country_codes}"/>
+                <m:ObjectStatus title="First Ascent" text="{apollo>/mountain/first_ascent}"/>
+                <m:ObjectStatus title="Height" text="{apollo>/mountain/height} m"/>
+                <m:ObjectStatus title="Prominence" text="{apollo>/mountain/prominence} m"/>
+                <layout:HorizontalLayout>
+                    <m:Label text="Coordinates:" class="sapUiTinyMarginEnd"/>
+                    <m:Link text="{apollo>/mountain/coordinates}" href="{path: 'apollo>/mountain/coordinates', formatter: '.coordinatesToGoogleMapsLink'}"/>
+                </layout:HorizontalLayout>
+            </layout:VerticalLayout>
+        </headerContent>
+        <sections>
+            <ObjectPageSection titleUppercase="false" title="Details">
+                <subSections>
+                    <ObjectPageSubSection titleUppercase="false">
+                        <blocks>
+                            <core:Fragment fragmentName="mdc.graphql.view.fragment.MountainForm" type="XML"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+                </subSections>
+            </ObjectPageSection>
+            <ObjectPageSection titleUppercase="false" title="Description">
+                <subSections>
+                    <ObjectPageSubSection titleUppercase="false">
+                        <blocks>
+                            <m:Text text="{apollo>/mountain/description}" class="sapUiSmallMargin"/>
+                        </blocks>
+                    </ObjectPageSubSection>
+                </subSections>
+            </ObjectPageSection>
+        </sections>
+        <footer>
+            <m:OverflowToolbar id="footerbar" visible="{=${input>/editMode}}">
+                <m:ToolbarSpacer/>
+                <m:Button type="Accept" text="Save" press=".onSaveButtonPress"/>
+                <m:Button type="Reject" text="Cancel" press=".onCancelButtonPress"/>
+            </m:OverflowToolbar>
+        </footer>
+    </ObjectPageLayout>
+</mvc:View>

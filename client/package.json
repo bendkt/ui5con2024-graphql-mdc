@@ -1,0 +1,23 @@
+{
+  "name": "ui5con-mdc-graphql-app",
+  "version": "1.0.0",
+  "author": "Benedikt Schoelch",
+  "license": "Apache-2.0",
+  "description": "Sample: GraphQL and MDC",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build",
+    "ts-typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@apollo/client": "^3.10.3",
+    "@openui5/types": "^1.124.0",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "@ui5/cli": "^3.8.0",
+    "typescript": "^5.2.2",
+    "ui5-middleware-livereload": "^3.0.2",
+    "ui5-tooling-modules": "^0.7.7",
+    "ui5-tooling-transpile": "^3.3.2"
+  }
+}

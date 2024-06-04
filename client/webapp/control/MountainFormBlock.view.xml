@@ -1,0 +1,56 @@
+<mvc:View xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:mdc="sap.ui.mdc"
+	xmlns:mdcf="sap.ui.mdc.field"
+	xmlns:f="sap.ui.layout.form"
+	xmlns="sap.m">
+
+	<f:SimpleForm id="mountainForm" editable="true" layout="ColumnLayout" columnsM="2" columnsL="3" columnsXL="4">
+		<f:dependents>
+			<core:Fragment fragmentName="mdc.graphql.view.fragment.RangeValueHelp" type="XML"/>
+			<core:Fragment fragmentName="mdc.graphql.view.fragment.MountainsValueHelp" type="XML"/>
+			<core:Fragment fragmentName="mdc.graphql.view.fragment.CountriesValueHelp" type="XML"/>
+		</f:dependents>
+
+		<f:content>
+			<core:Title text="Basics"/>
+
+			<Label text="Name" />
+			<mdc:Field id="fName" value="{path: 'form>name', type: 'sap.ui.model.type.String'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false" required="true"/>
+
+			<Label text="Description" visible="{input>/editMode}"/>
+			<mdc:Field display="Description" id="fDescription" value="{path: 'form>description', type: 'sap.ui.model.type.String'}" editMode="Editable" multipleLines="true" visible="{input>/editMode}"/>
+
+			<Label text="Height" />
+			<mdc:Field id="fHeight" value="{path: 'form>height', type: 'sap.ui.model.type.Integer'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false" required="true"/>
+
+			<Label text="Prominence" />
+			<mdc:Field id="fProminence" value="{path: 'form>prominence', type: 'sap.ui.model.type.Integer'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false" required="true"/>
+
+			<Label text="First Ascent" />
+			<mdc:Field id="fFirstAscent" value="{path: 'form>first_ascent', type: 'sap.ui.model.type.Integer'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false"/>
+
+			<core:Title text="Location"/>
+
+			<Label text="Coordinates" />
+			<mdc:Field id="fCoordinates" value="{path: 'form>coordinates', type: 'sap.ui.model.type.String'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false" required="true"/>
+
+			<Label text="Countries" />
+			<mdc:MultiValueField valueHelp="CountriesValueHelp" id="fCountries"
+				delegate="{name: 'mdc/graphql/delegate/GQLMultiValueFieldDelegate'}"
+				items="{path: 'form>country_codes'}"
+				display="ValueDescription"
+				editMode="{=${input>/editMode} ? 'Editable' : 'Display'}"
+				showEmptyIndicator="false">
+				<mdcf:MultiValueFieldItem key="{path: 'form>', type:'sap.ui.model.type.String'}" />
+			</mdc:MultiValueField>
+
+			<Label text="Range" />
+			<mdc:Field valueHelp="RangeValueHelp" display="Description" id="fRange" value="{path: 'form>id_range', type: 'sap.ui.model.type.String'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false"/>
+
+			<Label text="Parent Mountain" />
+			<mdc:Field valueHelp="MountainsValueHelp" display="Description" id="fParentMountain" value="{path: 'form>id_parent', type: 'sap.ui.model.type.String'}" editMode="{=${input>/editMode} ? 'Editable' : 'Display'}" multipleLines="false"/>
+		</f:content>
+	</f:SimpleForm>
+
+</mvc:View>

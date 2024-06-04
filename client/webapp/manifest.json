@@ -1,0 +1,101 @@
+{
+	"sap.app": {
+		"id": "mdc.graphql",
+		"type": "application",
+		"applicationVersion": {
+			"version": "1.0.0"
+		},
+		"title": "UICon MDC and GraphQL App",
+		"dataSources": {
+			"gqlsvc": {
+				"uri": "http://localhost:4000/graphql",
+				"customType": true,
+				"type": "GraphQL",
+				"settings": {
+					"ws": "ws://localhost:4000/graphql"
+				}
+			},
+			"input": {
+			  "uri": "./model/input.json",
+			  "type": "JSON"
+			}
+		}
+	},
+	"sap.ui": {
+		"technology": "UI5",
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		}
+	},
+	"sap.ui5": {
+		"flexEnabled": false,
+		"dependencies": {
+			"minUI5Version": "1.118.0",
+			"libs": {
+				"sap.ui.core": {},
+				"sap.m": {},
+				"sap.f": {},
+				"sap.ui.mdc": {},
+				"sap.ui.fl": {},
+				"sap.uxap": {}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		},
+		"handleValidation": true,
+		"models" : {
+			"input": {
+				"dataSource": "input"
+			}
+		},
+		"rootView": {
+			"viewName": "mdc.graphql.view.App",
+			"type": "XML",
+			"async": true
+		},
+		"routing": {
+			"config": {
+				"routerClass": "sap.m.routing.Router",
+				"type": "View",
+				"viewType": "XML",
+				"path": "mdc.graphql.view",
+				"controlId": "app",
+				"controlAggregation": "pages",
+				"transition": "slide",
+				"bypassed": {
+					"target": "notFound"
+				},
+				"async": true
+			},
+			"routes": [{
+				"pattern": ":?range:",
+				"name": "mountainList",
+				"target": "mountainList"
+			}, {
+				"pattern": "mountain/{mountainId}",
+				"name": "mountainDetails",
+				"target": "mountainDetails"
+			}],
+			"targets": {
+				"mountainList": {
+					"id": "mountainList",
+					"name": "MountainList"
+				},
+				"mountainDetails": {
+					"id": "mountainDetails",
+					"name": "MountainDetails",
+					"level" : 1
+				},
+				"notFound": {
+					"id": "notFound",
+					"name": "NotFound",
+					"transition": "show"
+				}
+			}
+		}
+	}
+}

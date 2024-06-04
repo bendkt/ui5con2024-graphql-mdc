@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "es2022",
+		"module": "es2022",
+		"moduleResolution": "node",
+		"skipLibCheck": true,
+		"allowJs": true,
+		"strict": true,
+		"strictNullChecks": false,
+		"strictPropertyInitialization": false,
+		"noImplicitAny": false,
+		"rootDir": "./webapp",
+		"types": ["@openui5/types"],
+		"paths": {
+			"mdc/graphql/*": ["./webapp/*"]
+		}
+	},
+	"include": ["./webapp/**/*"]
+}

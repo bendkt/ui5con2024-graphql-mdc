@@ -1,0 +1,40 @@
+<core:FragmentDefinition
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core"
+	xmlns:mdc="sap.ui.mdc"
+	xmlns:vh="sap.ui.mdc.valuehelp"
+	xmlns:vhc="sap.ui.mdc.valuehelp.content"
+	xmlns:vhfb="sap.ui.mdc.filterbar.vh">
+
+	<mdc:ValueHelp id="CountriesValueHelp" delegate="{name: 'mdc/graphql/delegate/GQLValueHelpDelegate', payload: {searchKeys: ['descr']}}">
+		<mdc:typeahead>
+			<vh:Popover title="Countries">
+				<vhc:MTable keyPath="code" descriptionPath="descr">
+					<Table id="CountriesValueHelp-table" items='{path : "apollo>/countries"}' width="30rem">
+						<columns>
+							<Column>
+								<header>
+									<Text text="Code" />
+								</header>
+							</Column>
+							<Column>
+								<header>
+									<Text text="Descr" />
+								</header>
+							</Column>
+						</columns>
+						<items>
+							<ColumnListItem type="Active">
+								<cells>
+									<Text text="{apollo>code}" />
+									<Text text="{apollo>descr}" />
+								</cells>
+							</ColumnListItem>
+						</items>
+					</Table>
+				</vhc:MTable>
+			</vh:Popover>
+		</mdc:typeahead>
+	</mdc:ValueHelp>
+
+</core:FragmentDefinition>

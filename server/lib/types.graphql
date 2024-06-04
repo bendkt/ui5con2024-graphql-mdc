@@ -1,0 +1,67 @@
+input NewMountainInput {
+	id_parent: String
+	id_range: String
+	country_codes: [String]
+	name: String!
+	height: Int!
+	prominence: Int!
+	coordinates: String!
+	first_ascent: Int
+	description: String
+  }
+
+  input UpdateMountainInput {
+	id: ID!
+	id_parent: String
+	id_range: String
+	country_codes: [String]
+	name: String!
+	height: Int!
+	prominence: Int!
+	coordinates: String!
+	first_ascent: Int
+	description: String
+  }
+  
+  type Mountain {
+	id: ID!
+	id_parent: String
+	id_range: String
+	country_codes: [String]
+	name: String!
+	height: Int!
+	prominence: Int!
+	range: Range
+	coordinates: String!
+	parent_mountain: Mountain
+	countries: [Country]
+	first_ascent: Int
+    description: String
+  }
+
+  type Range {
+	id: ID!
+	name: String!
+  }
+
+   type Country {
+	code: String!
+	descr: String!
+	name: String!
+  }
+
+  type Mutation {
+	createMountain(mountain: NewMountainInput): Mountain
+	updateMountain(mountain: UpdateMountainInput): Mountain
+  }
+
+  type Query {
+	getMountain(mountainId: String!): Mountain
+	getMountains: [Mountain]
+	getRanges: [Range]
+	getCountries: [Country]
+  }  
+
+  type Subscription {
+	mountainsUpdated: [Mountain]
+  }
