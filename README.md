@@ -22,6 +22,6 @@ To give a little orientation of what happens where:
 ### overview (brief and simplified)
 ![app](app.png)
 
-## related work
+## links
 * https://github.com/petermuessig/ui5-sample-apollo-reloaded
 * https://openui5.org/ui5con/germany2024/
