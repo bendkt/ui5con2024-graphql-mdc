@@ -1,5 +1,5 @@
 # ui5con-graphql-mdc
-This repository contains a sample for UI5Con 2024 demonstrating the synergies between GraphQL via Apollo Server/Client and MDC.
+This repository contains a sample for our UI5Con 2024 session "GraphQL and sap.ui.mdc: A Powerful Team for Metadata-Driven Apps", demonstrating the synergies between GraphQL via Apollo Server/Client and MDC. See the [slides](https://github.com/bendkt/ui5con2024-graphql-mdc/blob/458853c5a0a7c22941741e4a67bde536cf325e5d/2024_UI5con_MDC_GQL.pdf) for more information.
 
 ## install dependencies
 You'll need to have Yarn installed in order to install the whole setup. 
@@ -23,4 +23,5 @@ To give a little orientation of what happens where:
 ![app](app.png)
 
 ## related work
-https://github.com/petermuessig/ui5-sample-apollo-reloaded
+* https://github.com/petermuessig/ui5-sample-apollo-reloaded
+* https://openui5.org/ui5con/germany2024/
